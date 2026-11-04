@@ -1,0 +1,7544 @@
+{
+  "Aino": {
+    "sets": [
+      "Silken Moon's Serenade",
+      "Noblesse Oblige",
+      "Aubade of Morningstar and Moon",
+      "Instructor"
+    ],
+    "weapons": [
+      "Flame-Forged Insight",
+      "Master Key",
+      "Favonius Greatsword",
+      "Makhaira Aquamarine",
+      "Silken Moon's Serenade",
+      "Skyward Pride"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Provides a teamwide Elemental Mastery increase of 80 when Aino uses her Elemental Skill or Burst."
+      },
+      {
+        "name": "C2",
+        "effect": "• Fires off an additional water ball at an opponent that deals 25% of Aino's ATK and 100% of her Elemental Mastery."
+      },
+      {
+        "name": "C6",
+        "effect": "• Increases Electro-Charge, Bloom, and their Lunar reaction counterpart's damage by 15% for 15s after casting Aino's Elemental Burst."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Off-field Hydro Support",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Albedo": {
+    "sets": [
+      "Husk of Opulent Dreams",
+      "Golden Troupe",
+      "Defender's Will"
+    ],
+    "weapons": [
+      "Uraku Misugiri",
+      "Peak Patrol Song",
+      "Cinnabar Spindle",
+      "Primordial Jade Cutter",
+      "Wolf-Fang",
+      "Flute of Ezpitzal"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Elemental Burst will scale from DEF, increasing Albedo's DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hexerei Sub-DPS Build",
+        "sands": [
+          "def_"
+        ],
+        "goblet": [
+          "def_",
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "def_",
+          "critRate_"
+        ],
+        "subs": [
+          "def_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Alhaitham": {
+    "sets": [
+      "Gilded Dreams",
+      "Deepwood Memories",
+      "Wanderer's Troupe",
+      "Instructor"
+    ],
+    "weapons": [
+      "Light of Foliar Incision",
+      "Uraku Misugiri",
+      "Primordial Jade Cutter",
+      "Wolf-Fang",
+      "Iron Sting",
+      "Gilded Dreams"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Decreases Alhaitham's Elemental Skill cooldown.\n    • Greatly improves his DPS rotation."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases Elemental Mastery which translates to more damage."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Dendro Main DPS",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Solo Dendro DPS",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Aloy": {
+    "sets": [
+      "Blizzard Strayer",
+      "Wanderer's Troupe",
+      "Gladiator's Finale",
+      "Emblem of Severed Fate",
+      "Instructor"
+    ],
+    "weapons": [
+      "Thundering Pulse",
+      "Skyward Harp",
+      "The Stringless",
+      "Prototype Crescent",
+      "Wanderer's Troupe",
+      "Blizzard Strayer"
+    ],
+    "constellations": [],
+    "builds": [
+      {
+        "name": "Quickswap Burst Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critDMG_",
+          "critRate_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Alyosha": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "The Exile"
+    ],
+    "weapons": [
+      "Engulfing Lightning",
+      "Symphonist of Scents",
+      "Favonius Lance",
+      "Tamayuratei no Ohanashi",
+      "Song of the Vigil",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Alleviates Alyosha's Energy Recharge needs when triggering Electro reactions."
+      },
+      {
+        "name": "C2",
+        "effect": "• More duration for his Elemental Burst. \n    • Ease of applying Hunter's Mark."
+      },
+      {
+        "name": "C6",
+        "effect": "• Provides massive boost in his already existing utility.\n    • On top of that, also provides an EM boost."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Stellar-Conduct Support Build",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "enerRech_",
+          "atk"
+        ]
+      }
+    ]
+  },
+  "Amber": {
+    "sets": [
+      "Noblesse Oblige",
+      "Emblem of Severed Fate",
+      "Shimenawa's Reminiscence",
+      "Wanderer's Troupe",
+      "Crimson Witch of Flames"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "Favonius Warbow",
+      "Sacrificial Bow",
+      "Noblesse Oblige",
+      "The First Great Magic",
+      "Aqua Simulacra"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Baron Bunny deals additional DMG when shot.\n    • Makes damage rotations somewhat more clunky since you need to do a charged shot to deal more DMG."
+      },
+      {
+        "name": "C4",
+        "effect": "• Unlocks her Baron Bunny frontload playstyle, enabling her to play as a Burst DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Burst Support / Sub-DPS",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Melt DPS",
+        "sands": [
+          "eleMas",
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Anemo Traveler": {
+    "sets": [
+      "Viridescent Venerer",
+      "Gladiator's Finale",
+      "Noblesse Oblige",
+      "Instructor"
+    ],
+    "weapons": [
+      "Primordial Jade Cutter",
+      "Skyward Blade",
+      "Sacrificial Sword",
+      "Iron Sting",
+      "Viridescent Venerer",
+      "Freedom-Sworn"
+    ],
+    "constellations": [
+      {
+        "name": "C6",
+        "effect": "• Targets who take DMG from their Elemental Skill have their Anemo RES decreased by 20%. If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Anemo Sub DPS",
+        "sands": [
+          "enerRech_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Arataki Itto": {
+    "sets": [
+      "Husk of Opulent Dreams",
+      "Retracing Bolide",
+      "Archaic Petra",
+      "Defender's Will"
+    ],
+    "weapons": [
+      "Redhorn Stonethresher",
+      "Beacon of the Reed Sea",
+      "Skyward Pride",
+      "Serpent Spine",
+      "Whiteblind",
+      "Husk of Opulent Dreams"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "Stay a While and Listen Up  After using Royal Descent: Behold, Itto the Evil!, Arataki Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s."
+      },
+      {
+        "name": "C2",
+        "effect": "Gather 'Round, It's a Brawl!  After using Royal Descent: Behold, Itto the Evil!, each party member whose Element is Geo will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto. CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner."
+      },
+      {
+        "name": "C3",
+        "effect": "Horns Lowered, Coming Through  Increases the level of Masatsu Zetsushi: Akaushi Burst! by 3.Maximum upgrade level is 15."
+      },
+      {
+        "name": "C4",
+        "effect": "Jailhouse Bread and Butter  When the Raging Oni King state caused by Royal Descent: Behold, Itto the Evil! ends, all nearby party members gain 20% DEF and 20% ATK for 10s."
+      },
+      {
+        "name": "C5",
+        "effect": "10 Years of Hanamizaka Fame  Increases the level of Royal Descent: Behold, Itto the Evil! by 3.Maximum upgrade level is 15."
+      },
+      {
+        "name": "C6",
+        "effect": "Arataki Itto, Present!  Arataki Itto's Charged Attacks deal +70% CRIT DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Main DPS Build",
+        "sands": [
+          "def_"
+        ],
+        "goblet": [],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "def_",
+          "critDMG_",
+          "critRate_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Arlecchino": {
+    "sets": [
+      "Fragment of Harmonic Whimsy",
+      "Gladiator's Finale",
+      "Crimson Witch of Flames"
+    ],
+    "weapons": [
+      "Crimson Moon's Semblance",
+      "Staff of Homa",
+      "Primordial Jade Winged-Spear",
+      "Deathmatch",
+      "White Tassel",
+      "Blackcliff Pole"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Provides resistance to interruption, allowing you to swap out shielders for more offensive options. \n    • Increases Normal Attack passive's damage, becoming an unconditional buff to her already formidable Normal Attack scalings."
+      },
+      {
+        "name": "C2",
+        "effect": "• Allows Arlecchino to always max out her Bond of Life percentage when consuming Blood Debts in combat due to them immediately being in the Blood-Debt Due state. \n    • Provides Nuke potential when consuming Blood-Debts."
+      },
+      {
+        "name": "C6",
+        "effect": "• Gives even more damage potential to Arlecchino's Normal Attacks due to the CRIT Rate and CRIT DMG increases. \n    • Turns Arlecchino's Elemental Burst from a regular on-field reset into a capable Nuke."
+      }
+    ],
+    "builds": [
+      {
+        "name": "DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Ayaka": {
+    "sets": [
+      "Blizzard Strayer",
+      "Gladiator's Finale"
+    ],
+    "weapons": [
+      "Mistsplitter Reforged",
+      "Haran Geppaku Futsu",
+      "The Black Sword",
+      "Amenoma Kageuchi",
+      "Blizzard Strayer",
+      "Primordial Jade Cutter"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Creates two additional mini cyclones during her Elemental Burst.\n    • Strong against large enemies, weak against small, grouped-up enemies."
+      },
+      {
+        "name": "C4",
+        "effect": "• Reduces Enemy DEF by 30% after Elemental Burst.\n    • Increases overall DMG of the team, not just Ayaka's."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Main DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Ayato": {
+    "sets": [
+      "Echoes of an Offering",
+      "Heart of Depth",
+      "Gladiator's Finale",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Haran Geppaku Futsu",
+      "Mistsplitter Reforged",
+      "Primordial Jade Cutter",
+      "The Black Sword",
+      "Echoes of an Offering",
+      "Heart of Depth"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Increases Namisen Stacks to 5, which translates to more damage.\n    • if Ayato's Namisen stacks are at least 3, his Max HP will increase by 50%. This will help with survivability and damage."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases Normal ATK SPD by 15% for 15s for all party members after using Elemental Burst.\n    • Great constellation for both Main and Sub-DPS Ayato."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Low-Ping Hydro Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "hp_"
+        ]
+      },
+      {
+        "name": "Hydro Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "hp_"
+        ]
+      },
+      {
+        "name": "Hydro Sub-DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "hp_"
+        ]
+      }
+    ]
+  },
+  "Baizhu": {
+    "sets": [
+      "Deepwood Memories",
+      "Ocean-Hued Clam",
+      "Song of Days Past"
+    ],
+    "weapons": [
+      "Jadefall's Splendor",
+      "Prototype Amber",
+      "A Thousand Floating Dreams",
+      "Favonius Codex",
+      "Sacrificial Fragments",
+      "Thrilling Tales of Dragon Slayers"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Adds 1 more Elemental Skill charge, reducing his Energy Recharge requirements."
+      },
+      {
+        "name": "C2",
+        "effect": "• Hitting an enemy with any character sends out Baizhu's minor version of his skill, which applies Dendro and heals allies for 20% of the skill's potency even without him expending any of his skills."
+      },
+      {
+        "name": "C6",
+        "effect": "• Increases DMG of the Burst's projectile attacks, and gives the active character a free shield in conjunction with his C2."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Build",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_",
+          "hp"
+        ]
+      }
+    ]
+  },
+  "Barbara": {
+    "sets": [
+      "Ocean-Hued Clam",
+      "Maiden Beloved",
+      "Gilded Dreams",
+      "Instructor"
+    ],
+    "weapons": [
+      "Thrilling Tales of Dragon Slayers",
+      "Everlasting Moonglow",
+      "Prototype Amber",
+      "Ocean-Hued Clam",
+      "Maiden Beloved",
+      "Sacrificial Fragments"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Decreases Elemental Skill cooldown by 15%.\n    • Provide 15% Hydro DMG Bonus to the active character during Elemental Skill Duration"
+      },
+      {
+        "name": "C6",
+        "effect": "• Revives a fallen teammate to full HP if they die. Resets every 15 minutes."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Build",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "hp_"
+        ]
+      },
+      {
+        "name": "Bloom DPS Build",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "hp_"
+        ]
+      }
+    ]
+  },
+  "Beidou": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Gladiator's Finale",
+      "Thundering Fury",
+      "The Exile"
+    ],
+    "weapons": [
+      "A Thousand Blazing Suns",
+      "Beacon of the Reed Sea",
+      "Wolf's Gravestone",
+      "Serpent Spine",
+      "Favonius Greatsword",
+      "Emblem of Severed Fate"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Stormbreaker's arc lightning can jump to 2 additional targets."
+      },
+      {
+        "name": "C6",
+        "effect": "• During the duration of Stormbreaker, the Electro RES of surrounding enemies is decreased by 15%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Burst Sub-DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Bennett": {
+    "sets": [
+      "Noblesse Oblige",
+      "Emblem of Severed Fate"
+    ],
+    "weapons": [
+      "Mistsplitter Reforged",
+      "Aquila Favonia",
+      "Skyward Blade",
+      "Favonius Sword",
+      "Freedom-Sworn",
+      "Fleuve Cendre Ferryman"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Fantastic Voyage's ATK increase no longer has an HP restriction, and gains an additional 20% Base ATK."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Build",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_",
+          "hp_"
+        ],
+        "circlet": [
+          "critRate_",
+          "hp_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk_",
+          "hp_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Candace": {
+    "sets": [
+      "Nymph's Dream",
+      "Emblem of Severed Fate",
+      "Heart of Depth"
+    ],
+    "weapons": [
+      "The Catch",
+      "Staff of Homa",
+      "Skyward Spine",
+      "Favonius Lance",
+      "Rightful Reward",
+      "Emblem of Severed Fate"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Increases Candace's Support buffs and Elemental Burst DMG."
+      },
+      {
+        "name": "C6",
+        "effect": "• Increases off-field DPS and applies more Hydro on enemies."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Default Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Charlotte": {
+    "sets": [
+      "Noblesse Oblige",
+      "Gladiator's Finale",
+      "Ocean-Hued Clam",
+      "Tenacity of the Millelith",
+      "Golden Troupe"
+    ],
+    "weapons": [
+      "Favonius Codex",
+      "Skyward Atlas",
+      "Oathsworn Eye",
+      "Flowing Purity",
+      "Noblesse Oblige",
+      "Gladiator's Finale"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Additional ATK beneficial to Charlotte's DMG and Healing scaling."
+      },
+      {
+        "name": "C1",
+        "effect": "• Continuous healing for party members even when not inside Charlotte's Burst AoE."
+      },
+      {
+        "name": "C6",
+        "effect": "• Coordinates attacks with other party members, leading to more Elemental Reactions."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Cryo Support",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "healingBonus_",
+          "atk_"
+        ],
+        "subs": [
+          "atk_",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Cryo Sub-DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_",
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "atk_",
+          "enerRech_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Hybrid Support Sub-DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_",
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Chasca": {
+    "sets": [
+      "Obsidian Codex",
+      "Viridescent Venerer",
+      "Shimenawa's Reminiscence",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Astral Vulture's Crimson Plumage",
+      "Aqua Simulacra",
+      "The First Great Magic",
+      "Scion of the Blazing Sun",
+      "Chain Breaker",
+      "Obsidian Codex"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Guarantees a Shining Shadowhunt Shell, giving her 5 elemental bullets in total instead of 6. \n    • Spiritbinding Conversion chance increased, essentially giving her a Shining Shadowhunt Shell with only 2 elements. \n    • Quality-of-Life buff to exploration by decreasing Nightsoul Point and Phlogiston consumption out of combat."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gives all of her shots a 15% DMG increase from her passive upon taking the field. This also lets Chasca run a two-element team as the first DMG increase from Bullet Trick will always be active.   \n    • Elemental Bullets gain a second instance of AoE damage that scales with 400% of Chasca's ATK."
+      },
+      {
+        "name": "C4",
+        "effect": "• Elemental Burst restores 1.5 elemental energy to Chasca from each bullet on impact. \n    • One of Chasca's bullets from her Elemental Burst will deal a second instance of AoE damage that scales with 400% of Chasca's ATK."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Obsidian Codex DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Anemo Swirl DPS",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "atk_",
+          "eleMas"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_",
+          "eleMas"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Chevreuse": {
+    "sets": [
+      "Noblesse Oblige",
+      "Song of Days Past",
+      "Tenacity of the Millelith",
+      "Vourukasha's Glow",
+      "Crimson Witch of Flames"
+    ],
+    "weapons": [
+      "Black Tassel",
+      "Dialogues of the Desert Sages",
+      "Favonius Lance",
+      "Rightful Reward",
+      "Noblesse Oblige",
+      "Song of Days Past"
+    ],
+    "constellations": [
+      {
+        "name": "C4",
+        "effect": "• Chevreuse can use her Elemental Skill two more times. Good for Sub-DPS builds."
+      },
+      {
+        "name": "C6",
+        "effect": "• Chevreuse's ultimate buffs for both Pyro and Electro DMG, and access to party healing."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Overloaded Full Support",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Hybrid Pyro Support-DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "hp_",
+          "atk_",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Overloaded Pyro Sub-DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "enerRech_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Chiori": {
+    "sets": [
+      "Golden Troupe",
+      "Husk of Opulent Dreams"
+    ],
+    "weapons": [
+      "Uraku Misugiri",
+      "Peak Patrol Song",
+      "Primordial Jade Cutter",
+      "Cinnabar Spindle",
+      "Flute of Ezpitzal",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• After using her Elemental Skill, Chiori summons another Tamoto on the field so long as there is another geo character in the party."
+      },
+      {
+        "name": "C2",
+        "effect": "• Using her Elemental Burst summons Kinu for 10s next to the active character, functioning like Tamoto but dealing 170% of its DMG."
+      },
+      {
+        "name": "C4",
+        "effect": "• When using Chiori's Elemental Skill and swapping to the next character, the active character's attacks can summon Kinu to deal damage every 1s for 8s."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Geo Sub-DPS Build",
+        "sands": [
+          "def_",
+          "atk_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "def_",
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Chongyun": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Blizzard Strayer",
+      "Gladiator's Finale",
+      "The Exile"
+    ],
+    "weapons": [
+      "Wolf's Gravestone",
+      "Beacon of the Reed Sea",
+      "Serpent Spine",
+      "Tidal Shadow",
+      "Favonius Greatsword",
+      "Emblem of Severed Fate"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Elemental Skill and Bursts cast within Chongyun's Elemental Skill has reduced coodlwon.\n    • Does not reduce the cooldown prior to an Elemental Skill or Burst being cast within the field."
+      },
+      {
+        "name": "C6",
+        "effect": "• Straight DMG increase, useful for any role. \n    • Condition to trigger effect is very easy as a Sub-DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Cryo Sub DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Cryo Burst Support",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Citlali": {
+    "sets": [
+      "Scroll of the Hero of Cinder City",
+      "Tenacity of the Millelith",
+      "Gilded Dreams",
+      "Instructor"
+    ],
+    "weapons": [
+      "Starcaller's Watch",
+      "A Thousand Floating Dreams",
+      "Wandering Evenstar",
+      "Sacrificial Fragments",
+      "Thrilling Tales of Dragon Slayers",
+      "Mappa Mare"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases the damage dealt by the next 10 instances of damage when Citlali's shield is up. \n    • This damage buff can be maintained via the Frozen or Melt reaction."
+      },
+      {
+        "name": "C2",
+        "effect": "• Decreases enemy Pyro and Hydro RES by 20% for 12s. \n    • Increases Elemental Mastery of shielded characters. \n    • Allows Citlali's Elemental Skill casts to also give shields to nearby teammates."
+      },
+      {
+        "name": "C4",
+        "effect": "• Provides another instance of damage to Citlali's Elemental Skill, scaling with her own Elemental Mastery."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Cryo Shield Support",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Cryo Support Hybrid",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas",
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "eleMas",
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "eleMas",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Clorinde": {
+    "sets": [
+      "Fragment of Harmonic Whimsy",
+      "Thundering Fury"
+    ],
+    "weapons": [
+      "Absolution",
+      "Haran Geppaku Futsu",
+      "Primordial Jade Cutter",
+      "The Black Sword",
+      "Finale of the Deep",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Gives Clorinde a significant increase to her DMG and interruption resistance if an ally party member triggers an Electro-related reaction."
+      },
+      {
+        "name": "C6",
+        "effect": "• Gives Clorinde 10% CRIT Rate and 70% CRIT DMG, skyrocketing her damage even further.\n    • Summons Glimbright Shades that either attack with Clorinde or counter-attack her opponents.\n    • Decreases DMG received by 80% during her Night Vigil state."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Electro DPS",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "eleMas",
+          "critDMG_",
+          "critRate_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Collei": {
+    "sets": [
+      "Deepwood Memories",
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "The Exile"
+    ],
+    "weapons": [
+      "Polar Star",
+      "Aqua Simulacra",
+      "Elegy for the End",
+      "Favonius Warbow",
+      "Deepwood Memories",
+      "Emblem of Severed Fate"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• A small but impactful effect that reduces Collei's Energy requirements."
+      },
+      {
+        "name": "C2",
+        "effect": "• Further increases Collei's off-field utility as a Sub-DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Dendro Sub-DPS",
+        "sands": [
+          "enerRech_",
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Emblem of Severed Fate Sub-DPS",
+        "sands": [
+          "enerRech_",
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Burst Support Build",
+        "sands": [
+          "enerRech_"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Columbina": {
+    "sets": [
+      "Silken Moon's Serenade",
+      "Aubade of Morningstar and Moon",
+      "Tenacity of the Millelith",
+      "Instructor"
+    ],
+    "weapons": [
+      "Nocturne's Curtain Call",
+      "Reliquary of Truth",
+      "Sacrificial Jade",
+      "Prototype Amber",
+      "Favonius Codex",
+      "Surf's Up"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• In Lunar-Charged, she recovers 6 energy to the active character. \n    • In Lunar-Bloom, active character's interruption RES increases for 8s.\n    • In Lunar-Crystallized, provides a hydro shield based on her HP. \n    • Further increases her Lunar Reaction DMG Buff."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases relevant stats for each Lunar-Reaction based on her HP. \n    • When Gravity Ripple is full, increases her HP by 40%.\n    • Further increases her Lunar Reaction DMG Buff."
+      },
+      {
+        "name": "C6",
+        "effect": "• Immensely increases any Lunar Reaction's CRIT DMG. \n    • Further increases her Lunar Reaction DMG Buff."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Lunar Reactions Buffer/Support",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Lunar Bloom/Vaporize DPS",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "hp_",
+          "hp",
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Cyno": {
+    "sets": [
+      "Gilded Dreams",
+      "Thundering Fury",
+      "Gladiator's Finale"
+    ],
+    "weapons": [
+      "Staff of the Scarlet Sands",
+      "Staff of Homa",
+      "Primordial Jade Winged-Spear",
+      "Ballad of the Fjords",
+      "White Tassel",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "Ordinance: Unceasing Vigil  After using Sacred Rite: Wolf's Swiftness, Cyno's Normal Attack SPD will be increased by 20% for 10s. If the Judication effect of his Passive Talent Featherfall Judgment is triggered during Secret Rite: Chasmic Soulfarer, the duration of this increase will be refreshed. You need to unlock the Passive Talent \"Featherfall Judgment\"."
+      },
+      {
+        "name": "C2",
+        "effect": "Ceremony: Homecoming of Spirits  When Cyno's Normal Attacks hit opponents, his Electro DMG Bonus will increase by 10% for 4s. This effect can be triggered once every 0.1s. Max 5 stacks."
+      },
+      {
+        "name": "C3",
+        "effect": "Percept: Lawful Enforcer  Increases the Level of Sacred Rite: Wolf's Swiftness by 3. Maximum upgrade level is 15."
+      },
+      {
+        "name": "C4",
+        "effect": "Austerity: Forbidding Guard  When Cyno is in the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, after he triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself). This effect can occur 5 times within one use of Sacred Rite: Wolf's Swiftness."
+      },
+      {
+        "name": "C5",
+        "effect": "Funerary Rite: The Passing of Starlight  Increases the Level of Secret Rite: Chasmic Soulfarer by 3. Maximum upgrade level is 15."
+      },
+      {
+        "name": "C6",
+        "effect": "Raiment: Just Scales  After using Sacred Rite: Wolf's Swiftness or triggering  \"Featherfall Judgment,\" Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to fire off one DustsStalker Bolt. 'Day of the Jackal\" lasts for 8s. Max 8 stacks. It will be canceled once Pactsworn Pathclearer ends. A maximum of 1 Duststalker Bolt can be unleashed this way every. You must first unlock the Passive Talent \"Featherfall Judgment.\""
+      }
+    ],
+    "builds": [
+      {
+        "name": "Stellar-Conduct/Electro DPS Build",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "atk_",
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "enerRech_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Dahlia": {
+    "sets": [
+      "Noblesse Oblige",
+      "Emblem of Severed Fate",
+      "Tenacity of the Millelith",
+      "Vourukasha's Glow",
+      "The Exile"
+    ],
+    "weapons": [
+      "Favonius Sword",
+      "Key of Khaj-Nisut",
+      "Skyward Blade",
+      "Sacrificial Sword",
+      "The Dockhand's Assistant",
+      "Fleuve Cendre Ferryman"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Regains 2.5 Elemental Energy every time Dahlia gains Elemental Burst stacks."
+      },
+      {
+        "name": "C2",
+        "effect": "• Consumes Elemental Burst stacks to summon a stronger Shield that offers 25% increased Shield Strength."
+      },
+      {
+        "name": "C4",
+        "effect": "• Dahlia's Shield lasts 3 seconds longer, giving him 100% shield uptime."
+      },
+      {
+        "name": "C6",
+        "effect": "• Increases active character's ATK SPD by 10% during Dahlia's Elemental Burst. \n    • Revives the active character if they fall to 0% HP during Dahlia's Elemental Burst. This raises them back to 100% HP and can only be done every 15 minutes."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hydro Shield Support",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_",
+          "critRate_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_"
+        ]
+      }
+    ]
+  },
+  "Dehya": {
+    "sets": [
+      "Vourukasha's Glow",
+      "Emblem of Severed Fate"
+    ],
+    "weapons": [
+      "Favonius Greatsword",
+      "Mailed Flower",
+      "Makhaira Aquamarine",
+      "Earth Shaker",
+      "Scroll of the Hero of Cinder City",
+      "Rainslasher"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "The Flame Incandescent  Dehya's Max HP is increased by 20%, and she deals bonus DMG based on her Max HP when using the following attacks:\n- Molten Inferno's DMG will be increased by 3.6% of her Max HP. \n- Leonine Bite's DMG will be increased by 6% of her Max HP."
+      },
+      {
+        "name": "C2",
+        "effect": "The Sand-Blades Glittering  When Dehya uses Molten Inferno: Ranging Flame, the duration of the recreated Fiery Sanctum field will be increased by 6s. Additionally, when a Fiery Sanctum exists on the field, DMG dealt by its next coordinated attack will be increased by 50% when active character(s) within the Fiery Sanctum field are attacked."
+      },
+      {
+        "name": "C3",
+        "effect": "A Rage Swift as Fire  Increases the Leonine Bite by 3. Maximum upgrade level is 15."
+      },
+      {
+        "name": "C4",
+        "effect": "An Oath Abiding  When Flame-Mane's Fist and Incineration Drive attacks unleashed during Leonine Bite hit opponents, they will restore 1.5 Energy for Dehya and 2.5% of her Max HP. This effect can be triggered once every 0.2s."
+      },
+      {
+        "name": "C5",
+        "effect": "The Alpha Unleashed  Increases the Level of Molten Inferno by 3. Maximum upgrade level is 15."
+      },
+      {
+        "name": "C6",
+        "effect": "The Burning Claws Cleaving   The CRIT Rate of Leonine Bite is increased by 10%. Additionally, after a Flame-Mane's Fist attack hits an opponent and deals CRIT Hits during a single Blazing Lioness state, it will cause the CRIT DMG of Leonine Bite to increase by 15% for the rest of Blazing Lioness's duration and extend that duration by 0.5s. This effect can be triggered every 0.2s. The duration can be extended for a maximum of 2s and CRIT DMG can be increased by a maximum of 60% this way."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Default Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Dendro Traveler": {
+    "sets": [
+      "Deepwood Memories",
+      "Gilded Dreams",
+      "Emblem of Severed Fate",
+      "The Exile"
+    ],
+    "weapons": [
+      "Freedom-Sworn",
+      "Sacrificial Sword",
+      "Favonius Sword",
+      "Iron Sting",
+      "Deepwood Memories",
+      "Gilded Dreams"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Decreases the Energy requirement of the Dendro Traveler. \n    • Makes more offensive weapons or Substats more viable."
+      },
+      {
+        "name": "C4",
+        "effect": "• Further increases their Support capabilities.\n    • Immediately provides 30 EM for the active character after triggering a Lotus Lamp configuration."
+      }
+    ],
+    "builds": [
+      {
+        "name": "All-Rounder Dendro Build",
+        "sands": [
+          "enerRech_",
+          "eleMas"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "eleMas",
+          "critRate_",
+          "critDMG_"
+        ]
+      },
+      {
+        "name": "Dendro Reaction Build",
+        "sands": [
+          "enerRech_",
+          "eleMas"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "eleMas",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Diluc": {
+    "sets": [
+      "Crimson Witch of Flames",
+      "Marechaussee Hunter"
+    ],
+    "weapons": [
+      "Redhorn Stonethresher",
+      "Beacon of the Reed Sea",
+      "A Thousand Blazing Suns",
+      "Wolf's Gravestone",
+      "Serpent Spine",
+      "Rainslasher"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Deal 15% more damage if enemy HP is more than 50%.\n    • A simple buff that helps defeat enemies faster, but offers no value once enemies are below 50%."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gain a stack whenever Diluc takes damage.\n    • Still works even if Diluc has shields."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Pyro Main DPS",
+        "sands": [
+          "eleMas",
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "eleMas",
+          "atk_",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Diona": {
+    "sets": [
+      "Noblesse Oblige",
+      "Tenacity of the Millelith",
+      "Emblem of Severed Fate",
+      "Maiden Beloved",
+      "Instructor"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "Sacrificial Bow",
+      "Favonius Warbow",
+      "Recurve Bow",
+      "Noblesse Oblige"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Regenerates 15 Energy for Diona after the effects of Signature Mix end."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases Icy Paws' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionaly, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the Icy Paws shield's DMG Absorption for 5s."
+      },
+      {
+        "name": "C6",
+        "effect": "• Characters within Signature Mix's radius will gain the following effects based on their HP amounts: • Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%. • Elemental Mastery increased by 200 when HP is above 50%"
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Build for",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_",
+          "healingBonus_",
+          "critRate_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Dori": {
+    "sets": [
+      "Noblesse Oblige",
+      "Emblem of Severed Fate",
+      "Tenacity of the Millelith",
+      "Ocean-Hued Clam",
+      "The Exile"
+    ],
+    "weapons": [
+      "Favonius Greatsword",
+      "Wolf's Gravestone",
+      "Forest Regalia",
+      "The Bell",
+      "Noblesse Oblige",
+      "Flame-Forged Insight"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Provides additional damage.\n    • Not as useful since her recommended Main Stats are for HP."
+      },
+      {
+        "name": "C4",
+        "effect": "• Fully brings out Dori as a high tier support."
+      },
+      {
+        "name": "C6",
+        "effect": "• Enables Dori to become an on-field Driver."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Build - Buffer",
+        "sands": [
+          "enerRech_",
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_",
+          "atk_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Support Build - Burst Uptime",
+        "sands": [
+          "enerRech_",
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_",
+          "atk_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Support Build - Pure Healer",
+        "sands": [
+          "enerRech_",
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_",
+          "atk_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "C6  On-Field DPS",
+        "sands": [
+          "eleMas",
+          "enerRech_"
+        ],
+        "goblet": [
+          "electro_dmg_",
+          "eleMas"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Durin": {
+    "sets": [
+      "A Day Carved from Rising Winds",
+      "Noblesse Oblige",
+      "Emblem of Severed Fate",
+      "Instructor"
+    ],
+    "weapons": [
+      "Athame Artis",
+      "Freedom-Sworn",
+      "Absolution",
+      "Primordial Jade Cutter",
+      "Azurelight",
+      "Lion's Roar"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Gives 20 instances of increased DMG to the active character when Principle of Purity is used.\n    • Gives 10 instances of increased DMG to Durin's Elemental Burst when Principle of Darkness is used."
+      },
+      {
+        "name": "C2",
+        "effect": "• Amplifies Durin's DMG Bonus passive by another 50%."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases Elemental Burst DMG by 40%.\n    • There is a 30% chance that stacks from Durin's C1 will not be consumed during attacks."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Off-field Pyro Sub DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_",
+          "atk_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "eleMas",
+          "critRate_",
+          "critDMG_"
+        ]
+      },
+      {
+        "name": "Burgeon Build",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Electro Traveler": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Thundering Fury",
+      "The Exile"
+    ],
+    "weapons": [
+      "Skyward Blade",
+      "Sacrificial Sword",
+      "Festering Desire",
+      "Emblem of Severed Fate",
+      "Amenoma Kageuchi",
+      "Primordial Jade Cutter"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• When Falling Thunder hits an opponent, it will decrease their Electro RES by 15% for 8s."
+      },
+      {
+        "name": "C4",
+        "effect": "• When a character obtains Abundance Amulets generated by Lightning Blade, if this character's Energy is less than 35%, the Energy restored by the Abundance Amulets is increased by 100%."
+      },
+      {
+        "name": "C6",
+        "effect": "• Every 2 Falling Thunder attacks triggered by Bellowing Thunder will greatly increase the DMG dealt by the next Falling Thunder, which will deal 200% of its original DMG and will restore an additional 1 Energy to the current character."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Builds for",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Emilie": {
+    "sets": [
+      "Unfinished Reverie",
+      "Deepwood Memories"
+    ],
+    "weapons": [
+      "Lumidouce Elegy",
+      "Calamity Queller",
+      "Primordial Jade Winged-Spear",
+      "Deathmatch",
+      "Prospector's Drill",
+      "Tamayuratei no Ohanashi"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Outright 20% DMG increase to her main source of damage. \n    • Generates scents faster, therefore leveling her Lumidouce Case faster and allowing it to trigger more Cleardew Cologne attacks."
+      },
+      {
+        "name": "C2",
+        "effect": "• Allows Emilie's main damaging abilities to shred Dendro RES by 30%, allowing her to forego 4-pc. Deepwood Memories in non-burning teams or to stack Dendro Shred with it."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Default Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Escoffier": {
+    "sets": [
+      "Golden Troupe",
+      "Blizzard Strayer"
+    ],
+    "weapons": [
+      "Symphonist of Scents",
+      "Sacrificer's Staff",
+      "Staff of Homa",
+      "Engulfing Lightning",
+      "Prospector's Drill",
+      "Tamayuratei no Ohanashi"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases Cryo CRIT DMG by 60% for 15 seconds after Escoffier uses any of her abilities."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gives 5 instances of Cryo DMG from other party members a damage buff that scales with 240% of Escoffier's ATK."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases Elemental Burst's healing up time to 100%. \n    • Provides even more burst healing potential and energy regen that scales with Escoffier's CRIT Rate."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Freeze Sub-DPS/Support Build",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "cryo_dmg_",
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "enerRech_",
+          "critDMG_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Eula": {
+    "sets": [
+      "Pale Flame",
+      "Bloodstained Chivalry"
+    ],
+    "weapons": [
+      "Song of Broken Pines",
+      "Gest of the Mighty Wolf",
+      "Beacon of the Reed Sea",
+      "Wolf's Gravestone",
+      "Serpent Spine",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Large increase to Eula's Physical DMG every time Elemental Skill(hold) is used."
+      },
+      {
+        "name": "C3",
+        "effect": "• Straight DMG increase to her Elemental Burst."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Main DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "physical_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "enerRech_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Faruzan": {
+    "sets": [
+      "Viridescent Venerer",
+      "Emblem of Severed Fate"
+    ],
+    "weapons": [
+      "Breezeborne Refrain",
+      "Elegy for the End",
+      "Skyward Harp",
+      "Favonius Warbow",
+      "Sacrificial Bow",
+      "Tenacity of the Millelith"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "Truth by Any Means  Faruzan can fire off a maximum of 2 Hurricane Arrows using fully charged Aimed Shots while under the effect of a single Manifest Gale created by Wind Realm of Nasamjnin."
+      },
+      {
+        "name": "C2",
+        "effect": "Overzealous Intellect  The duration of the Dazzling Polyhedron created by The Wind’s Secret Ways is increased by 6s."
+      },
+      {
+        "name": "C3",
+        "effect": "Spirit-Orchard Stroll  Increases the Level of Wind Realm of Nasamjnin by 3. Maximum upgrade level is 15."
+      },
+      {
+        "name": "C4",
+        "effect": "Divine Comprehension  The vortex created by Pressurized Collapses will restore Energy to Faruzan based on the number of opponents hit: If it hits 1 opponent, it will restore 2 Energy for Faruzan. Each additional opponent hit will restore 0.5 more Energy for Faruzan. A maximum of 4 Energy can be restored to her per vortex."
+      },
+      {
+        "name": "C5",
+        "effect": "Wonderland of Rumination  Increases the Level of The Wind’s Secret Ways by 3. Maximum upgrade level is 15."
+      },
+      {
+        "name": "C6",
+        "effect": "The Wondrous Path of Truth  Characters affected by The Wind’s Secret Ways‘ Prayerful Wind’s Benefit have 40% increased CRIT DMG when they deal Anemo DMG. When the active character deals DMG while affected by Prayerful Wind’s Benefit, they will apply Pressurized Collapse to the opponent damaged. This effect can be triggered once every 3s. This CD is shared between all party members."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Build for Buffer",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Support Build for Swirl",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Fischl": {
+    "sets": [
+      "Golden Troupe",
+      "Gilded Dreams",
+      "Gladiator's Finale",
+      "Thundering Fury",
+      "Instructor"
+    ],
+    "weapons": [
+      "Polar Star",
+      "Aqua Simulacra",
+      "Skyward Harp",
+      "The Stringless",
+      "Golden Troupe",
+      "Slingshot"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• When Oz is not present and Fischl uses normal attacks, an orb will appear and deal attack an enemy for 22% of Fischl's ATK DMG."
+      },
+      {
+        "name": "C6",
+        "effect": "• Oz stays on the field for 2 seconds longer.\n    • If Oz is on the field, he will deal 30% of Fischl's ATK as Electro DMG when the character on the field deals Normal ATK DMG. \n    • Further increases the buff provided by the Hexerei: Secret Rite."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hexerei Electro Sub-DPS",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk"
+        ]
+      }
+    ]
+  },
+  "Flins": {
+    "sets": [
+      "Thundering Fury",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "Bloodsoaked Ruins",
+      "Staff of the Scarlet Sands",
+      "Primordial Jade Winged-Spear",
+      "Fractured Halo",
+      "Missive Windspear",
+      "Prospector's Shovel"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Reduces Special Elemental Skill cooldown. \n    • Restores 8 Energy to Flins every 5.5 seconds when triggering Lunar-Charged reactions."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gives Flins a special Normal Attack that deals 50% as AoE Lunar-Charged DMG. \n    • Reduces the Electro RES of opponents by 25% when struck by Electro attacks while Flins is On-Field."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases Flins' ATK by 20%.\n    • Flins' Elemental Mastery is increased by 10% of his ATK, up to a maximum of 220."
+      }
+    ],
+    "builds": [
+      {
+        "name": "DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "enerRech_",
+          "atk",
+          "critDMG_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Freminet": {
+    "sets": [
+      "Pale Flame",
+      "Blizzard Strayer",
+      "Golden Troupe",
+      "Gambler"
+    ],
+    "weapons": [
+      "Song of Broken Pines",
+      "Wolf's Gravestone",
+      "Prototype Archaic",
+      "Snow-Tombed Starsilver",
+      "Serpent Spine",
+      "Pale Flame"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Eases his energy requirements to have his Burst off-cooldown."
+      },
+      {
+        "name": "C6",
+        "effect": "• Biggest boost to his overall DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Pale Flame Physical",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "physical_dmg_",
+          "atk"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "atk",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Blizzard Strayer Cryo",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "atk",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Hybrid DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "physical_dmg_",
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "atk",
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Furina": {
+    "sets": [
+      "Golden Troupe",
+      "Tenacity of the Millelith"
+    ],
+    "weapons": [
+      "Splendor of Tranquil Waters",
+      "Key of Khaj-Nisut",
+      "Uraku Misugiri",
+      "Festering Desire",
+      "Fleuve Cendre Ferryman",
+      "Favonius Sword"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Lets Furina meet the DMG buff cap quicker, and increases Furina's HP for more damage or healing."
+      },
+      {
+        "name": "C6",
+        "effect": "• Gains the potential to become a Main DPS.\n    • Ousia form can now grant healing."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best Sub-DPS Support Build",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_",
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "hp_",
+          "critRate_",
+          "critDMG_",
+          "enerRech_",
+          "atk_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Gaming": {
+    "sets": [
+      "Marechaussee Hunter",
+      "Crimson Witch of Flames",
+      "Vermillion Hereafter",
+      "Flower of Paradise Lost",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "Serpent Spine",
+      "Redhorn Stonethresher",
+      "Beacon of the Reed Sea",
+      "Verdict",
+      "Rainslasher",
+      "Fruitful Hook"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• During Gaming's Elemental Burst, Suanni Man Chai will fully recover the health Gaming lost after using his Skill."
+      },
+      {
+        "name": "C4",
+        "effect": "• Provides additional energy for every Plunging Attacks, which lessens his Energy Requirement."
+      },
+      {
+        "name": "C6",
+        "effect": "• His biggest powerspike in terms of raw damage and range, with added consistency of crits."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Marechaussee Hunter DPS",
+        "sands": [
+          "eleMas",
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "enerRech_",
+          "eleMas",
+          "critRate_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Crimson Witch of Flames DPS",
+        "sands": [
+          "eleMas",
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "eleMas",
+          "enerRech_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Burgeon DPS",
+        "sands": [
+          "eleMas",
+          "enerRech_"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Ganyu": {
+    "sets": [
+      "Blizzard Strayer",
+      "Marechaussee Hunter",
+      "Shimenawa's Reminiscence",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "The First Great Magic",
+      "Astral Vulture's Crimson Plumage",
+      "Aqua Simulacra",
+      "Amos' Bow",
+      "Prototype Crescent",
+      "Blizzard Strayer"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Cryo RES reduction works for both Melt and Freeze teams.\n    • Bonus energy provided helps with recharging Ganyu's Elemental burst much faster."
+      },
+      {
+        "name": "C4",
+        "effect": "• Excellent buff for Freeze teams. \n    • Not as usefull for reverse melt Ganyu."
+      }
+    ],
+    "builds": [
+      {
+        "name": "General Freeze DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Melt DPS",
+        "sands": [
+          "eleMas",
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Marechaussee Hunter DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "critDMG_",
+          "atk_",
+          "enerRech_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Cryo Sub-DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Geo Traveler": {
+    "sets": [
+      "Nighttime Whispers",
+      "Emblem of Severed Fate",
+      "Noblesse Oblige"
+    ],
+    "weapons": [
+      "Primordial Jade Cutter",
+      "Mistsplitter Reforged",
+      "Festering Desire",
+      "Fleuve Cendre Ferryman",
+      "Amenoma Kageuchi",
+      "Nighttime Whispers in the Echoing Woods"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Adds a decent CRIT Rate to all party members within the Elemental Burst."
+      },
+      {
+        "name": "C4",
+        "effect": "• Provides large amounts of Energy to all party members.."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Geo Burst Sub-DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "enerRech_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Gorou": {
+    "sets": [],
+    "weapons": [
+      "Elegy for the End",
+      "Favonius Warbow",
+      "Sacrificial Bow",
+      "Husk of Opulent Dreams",
+      "Emblem of Severed Fate",
+      "Fading Twilight"
+    ],
+    "constellations": [
+      {
+        "name": "C4",
+        "effect": "• Adds healing to Gorou's Elemental Burst."
+      },
+      {
+        "name": "C6",
+        "effect": "• Increases Geo CRIT DMG of all Geo members in the party."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Builds for",
+        "sands": [
+          "def_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "def_"
+        ],
+        "circlet": [
+          "def_",
+          "critRate_"
+        ],
+        "subs": [
+          "def_",
+          "enerRech_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Hu Tao": {
+    "sets": [
+      "Crimson Witch of Flames",
+      "Shimenawa's Reminiscence",
+      "Marechaussee Hunter",
+      "The Exile"
+    ],
+    "weapons": [
+      "Staff of Homa",
+      "Staff of the Scarlet Sands",
+      "Ballad of the Fjords",
+      "Dragon's Bane",
+      "Crimson Witch of Flames",
+      "Shimenawa's Reminiscence"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Charge attacks cost 0 stamina while Hu Tao's Elemental Skill is active.\n    • Increases Hu Tao's overall DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Crimson Witch of Flames DPS",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "hp_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Shimenawa's Reminiscence DPS",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "hp_"
+        ]
+      },
+      {
+        "name": "Marechaussee Hunter DPS",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "hp_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Hydro Traveler": {
+    "sets": [
+      "Nymph's Dream",
+      "Golden Troupe",
+      "Heart of Depth",
+      "Flower of Paradise Lost",
+      "Gambler"
+    ],
+    "weapons": [
+      "Primordial Jade Cutter",
+      "Wolf-Fang",
+      "Favonius Sword",
+      "Finale of the Deep",
+      "Fleuve Cendre Ferryman",
+      "Nymph's Dream"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Reduces the Movement SPD of the Burst, making Hydro Application more consistent. \n    • Provides a Longer Burst duration."
+      },
+      {
+        "name": "C6",
+        "effect": "• Sourcewater Droplets can heal an ally with the lowest HP when the Traveler picks them up."
+      }
+    ],
+    "builds": [
+      {
+        "name": "All-Purpose Hydro",
+        "sands": [
+          "atk_",
+          "hp_"
+        ],
+        "goblet": [
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "eleMas",
+          "enerRech_",
+          "atk_",
+          "hp_"
+        ]
+      },
+      {
+        "name": "Bloom Driver",
+        "sands": [
+          "eleMas",
+          "enerRech_"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas",
+          "critRate_"
+        ],
+        "subs": [
+          "enerRech_",
+          "eleMas",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Iansan": {
+    "sets": [
+      "Scroll of the Hero of Cinder City",
+      "Noblesse Oblige",
+      "Gladiator's Finale",
+      "Shimenawa's Reminiscence",
+      "The Exile"
+    ],
+    "weapons": [
+      "Symphonist of Scents",
+      "Calamity Queller",
+      "Tamayuratei no Ohanashi",
+      "Favonius Lance",
+      "Scroll of the Hero of Cinder City",
+      "Engulfing Lightning"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Reduces Iansan's Energy Recharge requirements by regenerating energy for herself once for using Nightsoul Points."
+      },
+      {
+        "name": "C2",
+        "effect": "• Her Elemental Burst now also gives the benefit of her passive talent, and further increases the active character's ATK by 30% while she's offi-field."
+      },
+      {
+        "name": "C4",
+        "effect": "• More nightsoul regeneration via the use of your next active character's Elemental Burst when her Kinetic Energy Scale from her burst is active."
+      },
+      {
+        "name": "C6",
+        "effect": "• Extends Elemental Burst's duration by 3 seconds, reducing the downtime of her buffs from 6 seconds to 3 seconds. \n    • If Iansan overcaps the Nightsoul Points regenerated, increases DMG dealt by the active character by 25% for 3 seconds."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Electro Buffer Support",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Ifa": {
+    "sets": [
+      "Viridescent Venerer",
+      "Scroll of the Hero of Cinder City",
+      "Gilded Dreams",
+      "Wanderer's Troupe",
+      "Instructor"
+    ],
+    "weapons": [
+      "Sunny Morning Sleep-In",
+      "A Thousand Floating Dreams",
+      "Wandering Evenstar",
+      "Sacrificial Fragments",
+      "Mappa Mare",
+      "Viridescent Venerer"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Ifa gains even more Rescue Essentials points where the total Nightsoul Point sum that the party has is over 60. \n    • Increases Ifa's own Nightsoul Point limit by another 50."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases the crowd control of his Elemental Burst for another 3 seconds. \n    • Increases Elemental Mastery by 100 for 15s after using his Elemental Burst."
+      },
+      {
+        "name": "C6",
+        "effect": "• Gives him a 50% chance each time to fire a Tonicshot that deals 120% of his ATK instead of a normal pellet. This constellation improves his overall DPS and is considered Normal Attack DMG. \n    • Consumes 20% less Nightsoul Points and Phlogiston while out of combat and in Nightsoul's Blessing."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Anemo Swirl Driver",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Illuga": {
+    "sets": [
+      "Silken Moon's Serenade",
+      "Gilded Dreams",
+      "Wanderer's Troupe",
+      "Instructor"
+    ],
+    "weapons": [
+      "Favonius Lance",
+      "Dragon's Bane",
+      "Kitain Cross Spear",
+      "Staff of the Scarlet Sands",
+      "Silken Moon's Serenade"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Regains 12 Elemental Energy upon triggering Geo Elemental Reaction."
+      },
+      {
+        "name": "C2",
+        "effect": "• For every 7 instances of damage done during his Elemental Burst, casts Elemental Skill Off-Field.\n    • Off-Field DMG Cast is deals increased DMG by 400% of EM and 200% of DEF, serving as Elemental Burst DMG."
+      },
+      {
+        "name": "C6",
+        "effect": "• Increases A1 Passive's CRIT Rate increase from 5% to 10%. \n    • Increases A1 Passive's CRIT DMG increase from 10% to 30%. \n    • Active character's Elemental Mastery is increased by 80 for as long as A1 Passive is in effect."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Lunar Crystallize Support",
+        "sands": [
+          "eleMas",
+          "enerRech_"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_",
+          "def"
+        ]
+      }
+    ]
+  },
+  "Ineffa": {
+    "sets": [
+      "Scroll of the Hero of Cinder City",
+      "Golden Troupe"
+    ],
+    "weapons": [
+      "Fractured Halo",
+      "Staff of the Scarlet Sands",
+      "Bloodsoaked Ruins",
+      "Prospector's Shovel",
+      "Deathmatch",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases party's Lunar-Charged DMG based on her ATK when her shield is active."
+      },
+      {
+        "name": "C2",
+        "effect": "• When Ineffa Bursts, gives another instance of personal damage. • In addition, she also provides all party members shields for co-op."
+      },
+      {
+        "name": "C4",
+        "effect": "• Reduces Ineffa's Energy Recharge requirements to zero. Especially important for Ineffa as she will want to use her Elemental Burst every rotation to activate her ATK to Elemental Mastery passive."
+      },
+      {
+        "name": "C6",
+        "effect": "• When Ineffa activates her C1 effect, she deals yet another instance of Electro DMG."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best  Lunar Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Jahoda": {
+    "sets": [
+      "Viridescent Venerer",
+      "Silken Moon's Serenade",
+      "Golden Troupe",
+      "Instructor"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "Aqua Simulacra",
+      "Favonius Warbow",
+      "Snare Hook",
+      "Sacrificial Bow",
+      "Alley Hunter"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Enables Jahoda's Elemental Skill to track two elements at once, doubling the rate and damage types from her Elemental Skill."
+      },
+      {
+        "name": "C4",
+        "effect": "• Recovers Elemental Energy when Jahoda's Elemental Burst undergoes elemental conversion."
+      },
+      {
+        "name": "C6",
+        "effect": "• Buffs Moonsign characters by increasing their CRIT Rate and CRIT DMG when Jahoda's Elemental Skill is full."
+      }
+    ],
+    "builds": [
+      {
+        "name": "General Anemo Build",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_",
+          "healingBonus_",
+          "critRate_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk",
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Lunar Teams Build",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_",
+          "healingBonus_",
+          "critRate_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Jean": {
+    "sets": [
+      "Viridescent Venerer",
+      "Noblesse Oblige",
+      "Gladiator's Finale",
+      "The Exile"
+    ],
+    "weapons": [
+      "Primordial Jade Cutter",
+      "Sacrificial Sword",
+      "Festering Desire",
+      "Amenoma Kageuchi",
+      "Gladiator's Finale",
+      "Viridescent Venerer"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "When Jean picks up an Elemental Orb/Particle, all party members increase movement and ATK SPD by 15%."
+      },
+      {
+        "name": "C4",
+        "effect": "Jean's Elemental Burst reduces enemy Anemo RES by 40%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Anemo Sub-DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "enerRech_",
+          "critDMG_",
+          "critRate_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Anemo Healer Support",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "healingBonus_",
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "enerRech_",
+          "critDMG_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "ATK Buffer Build",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "atk_",
+          "enerRech_",
+          "critDMG_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Kachina": {
+    "sets": [
+      "Scroll of the Hero of Cinder City",
+      "Husk of Opulent Dreams",
+      "Golden Troupe",
+      "Defender's Will"
+    ],
+    "weapons": [
+      "Footprint of the Rainbow",
+      "Engulfing Lightning",
+      "Favonius Lance",
+      "Deathmatch",
+      "Scroll of the Hero of Cinder City",
+      "Vortex Vanquisher"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Allows Kachina to refresh Turbo Twirly using her Elemental Burst, ensuring a near 100% uptime on her Elemental Skill."
+      },
+      {
+        "name": "C4",
+        "effect": "• Kachina's Elemental Burst increases the DEF% of her active ally depending on enemies caught within the field, making her a good support for DEF-scaling units."
+      },
+      {
+        "name": "C6",
+        "effect": "• Grants a DEF-scaling shield break that can be triggered once every 5s, which should be frequent if the player picks up Crystallize shards."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Geo Sub-DPS",
+        "sands": [
+          "def_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "def_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Kaeya": {
+    "sets": [
+      "Blizzard Strayer",
+      "Noblesse Oblige",
+      "The Exile"
+    ],
+    "weapons": [
+      "Mistsplitter Reforged",
+      "Primordial Jade Cutter",
+      "Wolf-Fang",
+      "The Black Sword",
+      "Blizzard Strayer",
+      "Moonweaver's Dawn"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Very good Constellation for a main DPS Kaeya."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases Kaeya's Burst DMG.\n    • Energy refund is appreciated for reduced Energy Recahrge requirements."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Cryo Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "atk_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Freeze Sub-DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Physical Support",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Kaveh": {
+    "sets": [
+      "Flower of Paradise Lost",
+      "Gilded Dreams",
+      "Deepwood Memories"
+    ],
+    "weapons": [
+      "Mailed Flower",
+      "Makhaira Aquamarine",
+      "Rainslasher",
+      "Forest Regalia",
+      "Flower of Paradise Lost",
+      "Flame-Forged Insight"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases survivability against Dendro Core DMG explosions."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases his otherwise slow Attack SPD during burst."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Default Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Kazuha": {
+    "sets": [
+      "Viridescent Venerer",
+      "Noblesse Oblige",
+      "Emblem of Severed Fate",
+      "The Exile"
+    ],
+    "weapons": [
+      "Freedom-Sworn",
+      "Xiphos' Moonlight",
+      "Iron Sting",
+      "Favonius Sword",
+      "Viridescent Venerer",
+      "Mistsplitter Reforged"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases the amount of times Kazuha's Elemental Skill can be used.\n    • This also leads to less Energy Recharge Requirements."
+      },
+      {
+        "name": "C2",
+        "effect": "• Huge Elemental Mastery Buff to Kazuha and Other party members.\n    • Also contributes to increasing Elemental DMG of party members dues to his passive."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Build for",
+        "sands": [
+          "enerRech_",
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "enerRech_",
+          "eleMas",
+          "critDMG_",
+          "critRate_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "DPS Build for",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "eleMas",
+          "atk_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Keqing": {
+    "sets": [
+      "Thundering Fury",
+      "Gladiator's Finale"
+    ],
+    "weapons": [
+      "Mistsplitter Reforged",
+      "Primordial Jade Cutter",
+      "The Black Sword",
+      "Amenoma Kageuchi",
+      "Thundering Fury",
+      "Gladiator's Finale"
+    ],
+    "constellations": [
+      {
+        "name": "C4",
+        "effect": "• Increase Keqing's ATK by 25% for 10s after she triggers an Electro-related Elemental Reaction."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Aggravate Main DPS Build",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Non-Aggravate Main DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Kinich": {
+    "sets": [
+      "Obsidian Codex",
+      "Unfinished Reverie",
+      "Deepwood Memories",
+      "Golden Troupe",
+      "Gambler"
+    ],
+    "weapons": [
+      "Fang of the Mountain King",
+      "Beacon of the Reed Sea",
+      "Serpent Spine",
+      "Earth Shaker",
+      "Obsidian Codex",
+      "Unfinished Reverie"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases the damage dealt by his Elemental Skill's Scalespiker Cannon, which is essentially his primary source of damage. \n    • Quality-of-Life buff to exploration by buffing his movement speed if he uses his mid-air slash as the last part of his movement."
+      },
+      {
+        "name": "C2",
+        "effect": "• Decreases enemy Dendro RES, letting Kinich effectively deal 30% more damage. \n    • Scalespiker Cannon damage increased even more, on top of C1's CRIT DMG increase."
+      },
+      {
+        "name": "C4",
+        "effect": "• Restores Elemental Energy for Kinich during his Elemental Skill, letting him get his Elemental Burst back sooner. \n    • Increases Elemental Burst damage, making it a more reliable source of Dendro damage."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Burning or Burgeon Dendro DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "enerRech_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Dendro Quicken DPS",
+        "sands": [
+          "eleMas",
+          "atk_"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Kirara": {
+    "sets": [
+      "Deepwood Memories",
+      "Tenacity of the Millelith"
+    ],
+    "weapons": [
+      "Key of Khaj-Nisut",
+      "The Dockhand's Assistant",
+      "Sacrificial Sword",
+      "Favonius Sword",
+      "Sapwood Blade",
+      "Tenacity of the Millelith"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Shields party members she crashes into with her Elemental Skill. Enables Kirara to be viable in co-op."
+      },
+      {
+        "name": "C4",
+        "effect": "• Enables Kirara to have better off-field application whenever a Party Member uses their normal attacks, albeit on a long cooldown."
+      },
+      {
+        "name": "C6",
+        "effect": "• Enables Kirara to buff her party's Elemental DMG Bonus semi-permanently by using her abilities on cooldown."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Shield Support",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Hybrid Support",
+        "sands": [
+          "hp_",
+          "eleMas"
+        ],
+        "goblet": [
+          "hp_",
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "hp_",
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Bloom Driver",
+        "sands": [
+          "eleMas",
+          "hp_"
+        ],
+        "goblet": [
+          "eleMas",
+          "hp_"
+        ],
+        "circlet": [
+          "eleMas",
+          "hp_"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Klee": {
+    "sets": [
+      "A Day Carved from Rising Winds",
+      "Crimson Witch of Flames",
+      "Marechaussee Hunter",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Lost Prayer to the Sacred Winds",
+      "Tome of the Eternal Flow",
+      "Dodoco Tales",
+      "The Widsith",
+      "Flowing Purity",
+      "Solar Pearl"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Straight DMG increase for main DPS Klee."
+      },
+      {
+        "name": "C2",
+        "effect": "• Huge DMG increase for Klee.\n    • The debuff can also be used by her other party members."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hexerei Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Kokomi": {
+    "sets": [
+      "Tenacity of the Millelith",
+      "Ocean-Hued Clam",
+      "Heart of Depth",
+      "Instructor"
+    ],
+    "weapons": [
+      "Everlasting Moonglow",
+      "Prototype Amber",
+      "Ring of Yaxche",
+      "Thrilling Tales of Dragon Slayers",
+      "Flower of Paradise Lost",
+      "Hakushin Ring"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• The last Normal Attack in Kokomi's combo during her Elemental Burst will send out a fish that deals 30% of her Max HP as Hydro DMG."
+      },
+      {
+        "name": "C4",
+        "effect": "• ATK SPD during Elemental Burst increases by 10%.\n    • Normal Attacks during Elemental Burst restore .8 Energy."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Bloom Driver DPS",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Hydro DPS Build",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "healingBonus_",
+          "hp_"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Buffer/Healer Support Build",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "healingBonus_"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Kujou Sara": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Thundering Fury",
+      "The Exile"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "Skyward Harp",
+      "Polar Star",
+      "Chain Breaker",
+      "Sacrificial Bow",
+      "Emblem of Severed Fate"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Creates an Attack Buff (Tengu Juurai: Ambush) at the previous location after user Kujo Sara's Elemental Skill."
+      },
+      {
+        "name": "C6",
+        "effect": "• Allies hit by Tengu Juurai: Ambush will receive +60% Crit DMG to their Electro DMG attacks."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Electro Burst ATK Support",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Kuki Shinobu": {
+    "sets": [
+      "Flower of Paradise Lost",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "Freedom-Sworn",
+      "Xiphos' Moonlight",
+      "Iron Sting",
+      "Toukabou Shigure",
+      "Flower of Paradise Lost",
+      "Key of Khaj-Nisut"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Increases the duration of her Elemental Skill.\n    • Adds 2 extra ticks of healing and Aoe Damage."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases Shinobus off-field DPS capability.\n    • Perfect for Auto Attack based characters."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hyperbloom Build",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Healer Support",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "hp_",
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "healingBonus_",
+          "hp_"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Lauma": {
+    "sets": [
+      "Deepwood Memories",
+      "Silken Moon's Serenade",
+      "Night of the Sky's Unveiling",
+      "Instructor"
+    ],
+    "weapons": [
+      "Nightweaver's Looking Glass",
+      "Etherlight Spindlelute",
+      "A Thousand Floating Dreams",
+      "Sunny Morning Sleep-In",
+      "Starcaller's Watch",
+      "Blackmarrow Lantern"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Lauma’s Skill or Burst grants Threads of Life, healing active characters when Lunar-Blooms trigger based on her Elemental Mastery. \n    • During this effect, her Spirit Envoy Form costs less stamina and lasts longer, making it easier to maintain uptime."
+      },
+      {
+        "name": "C2",
+        "effect": "• Lauma’s Burst boosts all nearby party members’ Bloom, Hyperbloom, and Burgeon DMG based on her Elemental Mastery. \n    • It also further increases Lunar-Bloom DMG, making her a strong reaction support in Dendro teams."
+      },
+      {
+        "name": "C4",
+        "effect": "• Lauma regains 4 Elemental Energy every 5s when her Elemental Skill hits an opponent."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Dendro Debuffer/Support",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas",
+          "critRate_"
+        ],
+        "subs": [
+          "eleMas",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Layla": {
+    "sets": [
+      "Tenacity of the Millelith",
+      "Emblem of Severed Fate"
+    ],
+    "weapons": [
+      "Key of Khaj-Nisut",
+      "Favonius Sword",
+      "Freedom-Sworn",
+      "The Dockhand's Assistant",
+      "Fleuve Cendre Ferryman",
+      "Tenacity of the Millelith"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "Fortress of Fantasy  The Shield Absorption of the Curtain of Slumber generated by Nights of Formal Focus is increased by 20%.\nAdditionally, when unleashing Nights of Formal Focus, she will generate a shield for any nearby party members who are not being protected by a Curtain of Slumber. This shield will have 35% of the absorption of a Curtain of Slumber, will last for 12s, and will absorb Cryo DMG with 250% effectiveness."
+      },
+      {
+        "name": "C2",
+        "effect": "Light's Remit  When Shooting Stars from Nights of Formal Focus strike opponents, they will each restore 1 Energy to Layla. Each Shooting Star can restore Energy to her in this manner once."
+      },
+      {
+        "name": "C3",
+        "effect": "Secrets of the Night  Increases the Level of Nights of Formal Focus by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "C4",
+        "effect": "Starry Illumination  When Nights of Formal Focus starts to fire off Shooting Stars, it will grant all nearby party members the Dawn Star effect, causing their Normal and Charged Attack DMG to increase based on 5% of Layla's Max HP.  Dawn Star can last up to 3s and will be removed 0.05s after dealing Normal or Charged Attack DMG."
+      },
+      {
+        "name": "C5",
+        "effect": "Stream of Consciousness  Increases the Level of Dream of the Star-Stream Shaker by 3. Maximum upgrade level is 15."
+      },
+      {
+        "name": "C6",
+        "effect": "Radiant Soulfire  Shooting Stars from Nights of Formal Focus deal 40% increased DMG, and Starlight Slugs from Dream of the Star-Stream Shaker deal 40% increased DMG. Additionally, the interval between the creation of Night Stars via Nights of Formal Focus is decreased by 20%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Default Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Linnea": {
+    "sets": [
+      "Aubade of Morningstar and Moon",
+      "Husk of Opulent Dreams",
+      "Silken Moon's Serenade",
+      "Instructor"
+    ],
+    "weapons": [
+      "Golden Frostbound Oath",
+      "Aqua Simulacra",
+      "Polar Star",
+      "Slingshot",
+      "The Stringless",
+      "Favonius Warbow"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases DMG dealt across 6 - 18 stacks of Field Catalog, dealing increased Lunar-Crystallize DMG with normal Elemental Skill, using one stack each. \n    • Can consume 5 stacks of Field Catalog to improve Special Elemental Skill's frontloaded DMG."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases Hydro and Geo party members' CRIT DMG when triggering Moondrift Harmony. \n    • Linnea's Million Ton Crush CRIT DMG is increased, and can trigger an additional instance of Moondrift Harmony."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases DEF of Linnea and the Active Character when Moondrift Harmony is triggered.\n    • This DEF increase can be stacked if Linnea is the one on-field."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Lunar-Crystallize Sub-DPS",
+        "sands": [
+          "def_"
+        ],
+        "goblet": [
+          "def_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "def_",
+          "eleMas",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Lisa": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Gilded Dreams",
+      "Noblesse Oblige",
+      "The Exile"
+    ],
+    "weapons": [
+      "Kagura's Verity",
+      "Skyward Atlas",
+      "The Widsith",
+      "Hakushin Ring",
+      "Gilded Dreams",
+      "Emblem of Severed Fate"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Greatly reduces Lisa's Energy Recharge Requirements.\n    • Require's some setup to reach the max amount, easier in Electro-Charged and Superconduct teams."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases her overall DMG against multiple enemies. \n    • Not as useful against single target enemies."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Overload or Dendro Reactions Sub DPS",
+        "sands": [
+          "eleMas",
+          "atk_"
+        ],
+        "goblet": [
+          "electro_dmg_",
+          "eleMas"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ],
+        "subs": [
+          "enerRech_",
+          "eleMas",
+          "critRate_",
+          "critDMG_"
+        ]
+      },
+      {
+        "name": "Electro Burst Sub-DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Burst Support",
+        "sands": [
+          "enerRech_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Lohen": {
+    "sets": [
+      "Blizzard Strayer",
+      "Marechaussee Hunter"
+    ],
+    "weapons": [
+      "Disaster and Remorse",
+      "Staff of Homa",
+      "Fractured Halo",
+      "Primordial Jade Winged-Spear",
+      "Sacrificer's Staff",
+      "Deathmatch"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Will to Win limit and accumulation is higher, which increases his Special Elemental Skill's DMG."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gives a single instance of AoE Cryo DMG that deals 500% of his ATK.\n    • Also increases his party member's Elemental Mastery by 200."
+      },
+      {
+        "name": "C4",
+        "effect": "• Casting Elemental Burst while in Elemental Skill state yields the highest DMG increase. \n    • Greatly improves elemental energy generation."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Cryo DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_",
+          "atk_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Lynette": {
+    "sets": [
+      "Viridescent Venerer",
+      "Golden Troupe"
+    ],
+    "weapons": [
+      "Favonius Sword",
+      "Sacrificial Sword",
+      "Freedom-Sworn",
+      "Amenoma Kageuchi",
+      "Artifact",
+      "Viridescent Venerer"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Extra Vivid Shots for Elemental Burst's Bogglecat Box increase frequency of Swirls."
+      },
+      {
+        "name": "C4",
+        "effect": "• An additional charge for Lynette's Elemental Skill."
+      },
+      {
+        "name": "C6",
+        "effect": "• Anemo Infusion after Elemental Skill."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Sub DPS Builds",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "anemo_dmg_",
+          "eleMas"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_",
+          "eleMas"
+        ],
+        "subs": [
+          "atk_",
+          "eleMas",
+          "enerRech_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Lyney": {
+    "sets": [
+      "Marechaussee Hunter",
+      "Vermillion Hereafter",
+      "Crimson Witch of Flames",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "The First Great Magic",
+      "Aqua Simulacra",
+      "Thundering Pulse",
+      "Scion of the Blazing Sun",
+      "Song of Stillness",
+      "Marechaussee Hunter"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• CRIT DMG is greatly increased as long as Lyney is on the Field."
+      },
+      {
+        "name": "C4",
+        "effect": "• Enemy Pyro RES will be decreased after getting hit by Lyney's Charged Attacks."
+      },
+      {
+        "name": "C6",
+        "effect": "• Pyrotechnic Strikes will deal addtional DMG, increasing the Charged Attack DMG in the process."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Mono Pyro DPS",
+        "sands": [
+          "atk"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "enerRech_",
+          "critRate_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Alternative Pyro DPS",
+        "sands": [
+          "atk"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Mavuika": {
+    "sets": [
+      "Obsidian Codex",
+      "Crimson Witch of Flames"
+    ],
+    "weapons": [
+      "A Thousand Blazing Suns",
+      "Beacon of the Reed Sea",
+      "Wolf's Gravestone",
+      "A Teaspoon of Transcendence",
+      "Serpent Spine",
+      "Mailed Flower"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases Nightsoul Point Limit to 120 and increases the rate of Fighting Spirit gained by 25%. \n    • Gains 40% ATK for 8s after acquiring Fighting Spirit."
+      },
+      {
+        "name": "C2",
+        "effect": "• Off-Field ability lowers enemy DEF by 20%. \n    • Mavuika's Normal Attacks, Charged Attacks, and Elemental Burst deal 60%, 90%, and 120% of her ATK as bonus increased DMG."
+      },
+      {
+        "name": "C4",
+        "effect": "• Keeps the full DMG increase from her A4 Passive for the entire 20-second duration. \n    • Further increases A4 Passive's DMG bonus by another 10%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Pyro DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Mika": {
+    "sets": [
+      "Noblesse Oblige",
+      "Ocean-Hued Clam"
+    ],
+    "weapons": [
+      "Favonius Lance",
+      "Dialogues of the Desert Sages",
+      "Rightful Reward",
+      "Black Tassel",
+      "Noblesse Oblige",
+      "Engulfing Lightning"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Healing becomes faster, letting you act a bit more reckless when dealing damage."
+      },
+      {
+        "name": "C6",
+        "effect": "• Active character deals 60% more Physical CRIT DMG."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Default Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Mitya": {
+    "sets": [
+      "Blizzard Strayer",
+      "Marechaussee Hunter"
+    ],
+    "weapons": [
+      "Starsealed Edict",
+      "Reliquary of Truth",
+      "Lost Prayer to the Sacred Winds",
+      "Dawning Frost",
+      "Winter's Heavy Heart",
+      "The Widsith"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Improves the generation of Mitya's Gradient Beacons. \n    • Increases the active character's CRIT DMG when a Detection Core is on-field."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases the Elemental Mastery of either the party by a set amount, or the active character's Elemental Mastery by an increased amount depending on the Detection Core's state. \n    • RES Shreds the enemy's Cryo and Electro resistances by 20%."
+      },
+      {
+        "name": "C4",
+        "effect": "• Whenever Mitya consumes 5 Gradient Beacons, deals an instance of increased Electro DMG from the Detection Core."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best Stellar Conduct DPS Build",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "eleMas",
+          "critDMG_",
+          "critRate_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Mona": {
+    "sets": [
+      "Noblesse Oblige",
+      "Emblem of Severed Fate",
+      "Tenacity of the Millelith"
+    ],
+    "weapons": [
+      "Thrilling Tales of Dragon Slayers",
+      "Prototype Amber",
+      "Hakushin Ring",
+      "Favonius Codex",
+      "Artifact",
+      "Noblesse Oblige"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Overall amazing Constellation for Elemental Reaction based teams."
+      },
+      {
+        "name": "C4",
+        "effect": "• Huge CRIT Rate buff.\n    • Limited by the duration of the Omen Buff.\n    • Works great in Freeze teams since Omen Buff extends its duration while enemies are frozen."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Burst Support",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "atk_",
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Mualani": {
+    "sets": [
+      "Obsidian Codex",
+      "Heart of Depth",
+      "Vourukasha's Glow",
+      "Nymph's Dream",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Surf's Up",
+      "Sacrificial Jade",
+      "Ring of Yaxche",
+      "Tome of the Eternal Flow",
+      "A Thousand Floating Dreams",
+      "Ash-Graven Drinking Horn"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Provides a damage bonus to the very first Surging Bite from her Elemental Skill based on her Max HP, increasing the damage she deals. \n    • Consumes less Nightsoul Points while using her Elemental Skill to travel around, making it a good Quality-of-Life constellation."
+      },
+      {
+        "name": "C2",
+        "effect": "• Allows Mualani's Elemental Skill to last longer and deal more damage by enhancing the Puffer gathering mechanic. \n    • 2 Stacks on her Elemental Skill upon cast combined with C1 allow her to nuke down opponents quickly by ramming her Skill into them then hitting them with the Surging Bite."
+      },
+      {
+        "name": "C6",
+        "effect": "• Removes the Once-per-Nightsoul-Blessing requirement from her Elemental Skill, making every Surging Bite deal as much damage as the first empowered one. \n    • Turns Mualani's Elemental Skill into a high-scaling nuke at every point of its uptime."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hydro Main DPS",
+        "sands": [
+          "hp_",
+          "eleMas"
+        ],
+        "goblet": [
+          "hydro_dmg_",
+          "hp_"
+        ],
+        "circlet": [
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "hp_",
+          "eleMas",
+          "critRate_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Nahida": {
+    "sets": [
+      "Deepwood Memories",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "A Thousand Floating Dreams",
+      "Sacrificial Fragments",
+      "Magic Guide",
+      "Wandering Evenstar",
+      "Mappa Mare",
+      "The Widsith"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "The Seed of Stored Knowledge  When the Shrine of Maya is unleashed and the Elemental Types of the party members are being tabulated, the count will add 1 to the number of Pyro, Electro, and Hydro characters respectively."
+      },
+      {
+        "name": "C2",
+        "effect": "The Root of All Fullness  Opponents that are marked by Seeds of Skandha applied by Nahida herself will be affected by the following effects:\n· Burning, Bloom, Hyperbloom, and Burgeon Reaction DMG they receive can score CRIT Hits. CRIT Rate and CRIT DMG are fixed at 20% and 100% respectively.\n· Within 8s of being affected by Quicken, Aggravate, Spread, DEF is decreased by 30%."
+      },
+      {
+        "name": "C3",
+        "effect": "The Shoot of Conscious Attainment  Increases the Level of All Schemes to Know by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "C4",
+        "effect": "The Stem of Manifest Inference  When 1/2/3/4 (or more) nearby opponents are affected by All Schemes to Know's Seeds of Skandha, Nahida's Elemental Mastery will be increased by 100/120/140/160."
+      },
+      {
+        "name": "C5",
+        "effect": "The Leaves of Enlightening Speech  Increases the Level of Illusory Heart by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "C6",
+        "effect": "The Fruit of Reason's Culmination   When Nahida hits an opponent affected by All Schemes to Know's Seeds of Skandha with Normal or Charged Attacks after unleashing Illusory Heart, she will use Tri-Karma Purification: Karmic Oblivion on this opponent and all connected opponents, dealing Dendro DMG based on 200% of Nahida's ATK and 400% of her Elemental Mastery.\nDMG dealt by Tri-Karma Purification: Karmic Oblivion is considered Elemental Skill DMG and can be triggered once every 0.2s.\nThis effect can last up to 10s and will be removed after Nahida has unleashed 6 instances of Tri-Karma Purification: Karmic Oblivion.\""
+      }
+    ],
+    "builds": [
+      {
+        "name": "Default Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Navia": {
+    "sets": [
+      "Nighttime Whispers",
+      "Marechaussee Hunter",
+      "Archaic Petra",
+      "Gladiator's Finale",
+      "Golden Troupe"
+    ],
+    "weapons": [
+      "Verdict",
+      "Serpent Spine",
+      "The Unforged",
+      "Wolf's Gravestone",
+      "Ultimate Overlord's Mega Magic Sword",
+      "Nighttime Whispers"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Can provide extra energy for Navia to keep her Elemental Burst up, which enables her to cast her Burst off-cooldown. This, by extension, also makes her Elemental Skill rotations smoother."
+      },
+      {
+        "name": "C2",
+        "effect": "• Provides additional CRIT Rate for Navia's Elemental Skill.\n    • Provides additional instance of damage on enemies hit by Elemental Skill."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Nighttime Whispers DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "enerRech_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Marechausee Hunter DPS with Furina",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "enerRech_",
+          "atk_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Quick-swap Geo Burst DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critDMG_",
+          "critRate_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Nefer": {
+    "sets": [
+      "Night of the Sky's Unveiling",
+      "Gilded Dreams",
+      "Deepwood Memories",
+      "Instructor"
+    ],
+    "weapons": [
+      "Reliquary of Truth",
+      "Nightweaver's Looking Glass",
+      "Tome of the Eternal Flow",
+      "Cashflow Supervision",
+      "Dawning Frost",
+      "Blackmarrow Lantern"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases Nefer's Charged Attack Lunar-Bloom DMG by 60% of her Elemental Mastery. Affects both her base Elemental Skill and her Seeds of Deceit-enchanced Elemental Skill."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases Seed of Deceit enhance duration to 5s, increases stack limit of Seed of Deceit to 5, and boosts Nefer's Special Charged Attack by up to another 140% of its DMG.\n    • Gains 2 stacks of Seed of Deceit when casting Elemental Skill, and when 5 stacks are reached, increases Nefer's Elemental Mastery by 200."
+      },
+      {
+        "name": "C4",
+        "effect": "• Gains Verdant Dew 25% faster while in her Elemental Skill state.\n    • Within the Elemental Skill state, lowers nearby opponents' Dendro RES by 20%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Lunar-Bloom DPS",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "eleMas",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Neuvillette": {
+    "sets": [
+      "Marechaussee Hunter",
+      "Heart of Depth"
+    ],
+    "weapons": [
+      "Tome of the Eternal Flow",
+      "Sacrificial Jade",
+      "Surf's Up",
+      "Lost Prayer to the Sacred Winds",
+      "Prototype Amber",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Lets you run double-Hydro team comps without the need of a third element to satisfy the conditions of his Heir to the Ancient Sea's Authority passive.\n    • Provides resistance to interruption when casting Charged Attack."
+      },
+      {
+        "name": "C4",
+        "effect": "• More Sourcewater Droplets upon being healed, which enables him to blast an extra set of Charged ATK. This constellation is more optimal to use if you have C6."
+      },
+      {
+        "name": "C6",
+        "effect": "• Enables quick absorption of Sourcewater Droplets during Charged Attacks.\n    • Fires off 2 additional torrents during Charged Attacks for increased DMG."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best Hypercarry Build",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "hydro_dmg_",
+          "hp_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_",
+          "hp_"
+        ],
+        "subs": [
+          "hp_",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Nicole": {
+    "sets": [
+      "Noblesse Oblige",
+      "Golden Troupe"
+    ],
+    "weapons": [
+      "Angelos' Heptades",
+      "Starcaller's Watch",
+      "Thrilling Tales of Dragon Slayers",
+      "Skyward Atlas",
+      "Oathsworn Eye",
+      "Flowing Purity"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Creates an independent instance of Arcane Projection that deals AoE DMG according to the active character's element. The only requirement for activation is that Nicole must be in the party."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gives a flat 300 ATK bonus, allowing you to go past the maximum threshold if available.\n    • Decreases enemy RES by 25% according to the character's element.\n    • Nicole's shield now applies to Co-Op allies."
+      },
+      {
+        "name": "C4",
+        "effect": "• When Nicole's buff is enhanced, applies Pathfinder's Blessing to all active characters, increasing 8 instances of DMG dealt by all their attacks by 70% of Nicole's ATK.\n    • Works in Co-Op, Pathfinder's Blessing is applied to every active character with independent instance count."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Shielder and ATK Buffer Support",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_"
+        ],
+        "subs": [
+          "atk_",
+          "enerRech_",
+          "atk"
+        ]
+      }
+    ]
+  },
+  "Nilou": {
+    "sets": [
+      "Vourukasha's Glow",
+      "Tenacity of the Millelith"
+    ],
+    "weapons": [
+      "Key of Khaj-Nisut",
+      "Freedom-Sworn",
+      "Favonius Sword",
+      "Xiphos' Moonlight",
+      "The Dockhand's Assistant",
+      "Serenity's Call"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Enhances her Elemental Skill, increasing its DMG or its duration depending on the dance."
+      },
+      {
+        "name": "C2",
+        "effect": "• Greatly debuffs the enemy's Hydro and Dendro resistance."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best  Bloom Build",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_",
+          "hp",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Ningguang": {
+    "sets": [
+      "Nighttime Whispers",
+      "Archaic Petra",
+      "Gladiator's Finale",
+      "Noblesse Oblige",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Lost Prayer to the Sacred Winds",
+      "Skyward Atlas",
+      "Solar Pearl",
+      "Mappa Mare",
+      "Nighttime Whispers in the Echoing Woods",
+      "Memory of Dust"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Greatly increases her DMG.\n    • Lowers her Energy Recharge Requirements."
+      },
+      {
+        "name": "C6",
+        "effect": "• Further Increases Ningguangs Elemental Burst DMG. \n    • Remember to use her Elemental Skill prior to using her Elemental Burst."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Geo Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Noelle": {
+    "sets": [
+      "Husk of Opulent Dreams",
+      "Marechaussee Hunter",
+      "Retracing Bolide",
+      "Ocean-Hued Clam",
+      "Maiden Beloved"
+    ],
+    "weapons": [
+      "Redhorn Stonethresher",
+      "Serpent Spine",
+      "Whiteblind",
+      "Husk of Opulent Dreams",
+      "Marechaussee Hunter",
+      "Skyward Pride"
+    ],
+    "constellations": [
+      {
+        "name": "C6",
+        "effect": "・Elemental Burst increases ATK based on 50% of Noelle's DEF.\n    ・Enemies defeated during Elemental Burst increases duration for 1 second, up to 10 seconds."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Geo Main DPS",
+        "sands": [
+          "def_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "def_",
+          "critDMG_",
+          "critRate_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Geo Support",
+        "sands": [
+          "enerRech_"
+        ],
+        "goblet": [
+          "def_"
+        ],
+        "circlet": [
+          "def_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "enerRech_",
+          "def_"
+        ]
+      }
+    ]
+  },
+  "Odette": {
+    "sets": [
+      "Blizzard Strayer",
+      "Golden Troupe"
+    ],
+    "weapons": [
+      "Whitelake Frostfeather",
+      "Freedom-Sworn",
+      "Finale of the Deep",
+      "Azurelight",
+      "Aquila Favonia",
+      "Harbinger of Dawn"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Allows Odette to gain to reliable apply more Cryo. \n    • Massive DMG boost for Stellar DMG."
+      },
+      {
+        "name": "C2",
+        "effect": "• More ATK% for the active character. \n    • RES Shred for elements, dependent on what Stellar Reaction the team has."
+      },
+      {
+        "name": "C6",
+        "effect": "• Good personal damage increase for Odette, making her a reliable Sub-DPS on top of her utility."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best Stellar Support Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Ororon": {
+    "sets": [
+      "Scroll of the Hero of Cinder City",
+      "Golden Troupe",
+      "Thundering Fury",
+      "Gambler"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "Aqua Simulacra",
+      "Amos' Bow",
+      "The Stringless",
+      "Rainbow Serpent's Rain Bow",
+      "Scroll of the Hero of Cinder City"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Enemies hit by his Elemental Skill take 50% more DMG from Ororon's Hypersense passive. \n    • Increases the number of bounces on his Elemental Skill by 2."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gives Ororon Electro DMG Bonus when using his Elemental Burst, up to a maximum of 32%."
+      },
+      {
+        "name": "C6",
+        "effect": "• Potentially buffs the active character's ATK by 30%. \n    • Using your Elemental Burst triggers one instance of Hypersense that deals double its usual damage."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Electro Sub-DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Hyperbloom Sub-DPS",
+        "sands": [
+          "eleMas",
+          "atk_"
+        ],
+        "goblet": [
+          "eleMas",
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "eleMas",
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_",
+          "critDMG_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Prune": {
+    "sets": [
+      "Noblesse Oblige",
+      "Golden Troupe"
+    ],
+    "weapons": [
+      "Skyward Atlas",
+      "Memory of Dust",
+      "Thrilling Tales of Dragon Slayers",
+      "Oathsworn Eye",
+      "Favonius Codex",
+      "Flowing Purity"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Increases Prune's ATK by 15% up to 40% during her combo. This then extends to her ATK buffs, strengthening them."
+      },
+      {
+        "name": "C4",
+        "effect": "• Ricochet's Prune's enhanced Elemental Skill, dealing a second instance of elemental-infused damage."
+      },
+      {
+        "name": "C6",
+        "effect": "• Elemental Burst timer is increased by 4s.\n    • Prune and the active character gain a flat 350 ATK for 6s upon triggering an elemental reaction under the effects of Prune's Toiling Rally."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Sub-DPS and Support Build",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_"
+        ],
+        "subs": [
+          "atk_",
+          "atk",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Pyro Traveler": {
+    "sets": [
+      "Scroll of the Hero of Cinder City",
+      "Golden Troupe",
+      "Flower of Paradise Lost",
+      "Gambler"
+    ],
+    "weapons": [
+      "Mistsplitter Reforged",
+      "Primordial Jade Cutter",
+      "Wolf-Fang",
+      "Festering Desire",
+      "Harbinger of Dawn",
+      "Scroll of the Hero of Cinder City"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Provides Nightsoul Point regeneration to the Traveler when allies trigger Pyro-related reactions after the Traveler uses their Elemental Skill."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases Pyro DMG Bonus by 20% whenever using the Traveler's Elemental Burst."
+      },
+      {
+        "name": "C6",
+        "effect": "• Gives the Traveler's Normal attacks Nightsoul-aligned Pyro Infusion and increases their CRIT DMG by 40% when using these attacks, effectively giving the Traveler the choice to become an On-Field quickswap DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Pyro Sub-DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "pyro_dmg_",
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Qiqi": {
+    "sets": [
+      "Ocean-Hued Clam",
+      "Tenacity of the Millelith"
+    ],
+    "weapons": [
+      "Skyward Blade",
+      "Primordial Jade Cutter",
+      "Summit Shaper",
+      "Sacrificial Sword",
+      "Favonius Sword",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• When the Herald of Frost hits and enemy marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy.  • When Radiance: Stellar Conduct state is active, more energy for Qiqi when coordinated attack hits enemies."
+      },
+      {
+        "name": "C6",
+        "effect": "• Using Adeptus Art: Preserver of Fortune revives all nearby fallen party members and regenerates 50% of their HP. • Further increases her damage when the active character trigger Stellar-Conduct."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Stellar-Conduct/Healer Support Build",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_",
+          "healingBonus_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "healingBonus_",
+          "critRate_",
+          "enerRech_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Raiden Shogun": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Thundering Fury",
+      "Gladiator's Finale",
+      "Flower of Paradise Lost",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "Engulfing Lightning",
+      "Staff of Homa",
+      "Wavebreaker's Fin",
+      "The Catch",
+      "Emblem of Severed Fate",
+      "Dragon's Bane"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Resolve gained through Elemental Bursts of Party members is increased.\n    • More resolves stacks means higher Elemental Burst DMG for Raiden Shogun."
+      },
+      {
+        "name": "C2",
+        "effect": "• Elemental Burst ignores 60% DEF of enemies.\n    • This Constellation provides the highest personal DPS increase for Raiden Shogun"
+      }
+    ],
+    "builds": [
+      {
+        "name": "Energy Recharge Main DPS",
+        "sands": [
+          "enerRech_",
+          "atk"
+        ],
+        "goblet": [
+          "atk_",
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "enerRech_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Hyperbloom Sub DPS",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Razor": {
+    "sets": [
+      "A Day Carved from Rising Winds",
+      "Echoes of an Offering",
+      "Gladiator's Finale",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "A Thousand Blazing Suns",
+      "Redhorn Stonethresher",
+      "Beacon of the Reed Sea",
+      "Serpent Spine",
+      "A Day Carved from Rising Winds",
+      "Echoes of an Offering"
+    ],
+    "constellations": [
+      {
+        "name": "C4",
+        "effect": "• When casting Claw and Thunder (Press), enemies hit will have their DEF decreased by 15% for 7s."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hexerei Electro DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Rosaria": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Blizzard Strayer"
+    ],
+    "weapons": [
+      "Staff of the Scarlet Sands",
+      "Staff of Homa",
+      "Fractured Halo",
+      "Lumidouce Elegy",
+      "Gilded Dreams",
+      "Primordial Jade Winged-Spear"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Excellent buff for any Team Comp.\n    • Longer duration means more DMG and a longer CRIT Rate bonus for teammates."
+      },
+      {
+        "name": "C6",
+        "effect": "• Excellent buff for Physical DMG teams. \n    • Not really usefull for other team comps."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Build for",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Sandrone": {
+    "sets": [
+      "Golden Troupe",
+      "Marechaussee Hunter"
+    ],
+    "weapons": [
+      "A Teaspoon of Transcendence",
+      "A Thousand Blazing Suns",
+      "Redhorn Stonethresher",
+      "Verdict",
+      "Mailed Flower",
+      "Tidal Shadow"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Slows down Decoding Power's accumulation rate, allowing for more attacks before needing to refresh. \n    • Increases teamwide Stellar-Conduct DMG by 30%."
+      },
+      {
+        "name": "C2",
+        "effect": "• Grants up to 100% bonus CRIT DMG from Sandrone's Charged Attacks, starting from 40% upon first firing her condensed beam."
+      },
+      {
+        "name": "C4",
+        "effect": "• Summons an independent instance of damage towards opponents whenever Sandrone deals Stellar-Conduct DMG. Has a cooldown of 4s."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Stellar-Conduct Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "enerRech_",
+          "critDMG_",
+          "atk",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Sayu": {
+    "sets": [
+      "Viridescent Venerer",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "Makhaira Aquamarine",
+      "Mailed Flower",
+      "Rainslasher",
+      "Sacrificial Greatsword",
+      "Viridescent Venerer",
+      "Wolf's Gravestone"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Healing at 70% HP limit removed. Muji-Muji Daruma can now simultaneously heal and swirl enemies at once."
+      },
+      {
+        "name": "C6",
+        "effect": "• Increases Muji-Muji Daruma DMG and Healing based on Sayu's Elemental Mastery."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Default Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Sethos": {
+    "sets": [
+      "Wanderer's Troupe",
+      "Gilded Dreams",
+      "Thundering Fury",
+      "Instructor"
+    ],
+    "weapons": [
+      "Hunter's Path",
+      "The First Great Magic",
+      "Amos' Bow",
+      "Cloudforged",
+      "Scion of the Blazing Sun",
+      "Slingshot"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Gives Sethos a sizable increase in damage in all of his playstyles, with the trigger conditions being near unconditional."
+      },
+      {
+        "name": "C6",
+        "effect": "• Solves all of Sethos' energy issues by refunding the Elemental Energy cost of his Aimed Shots if he hits the opponent."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Electro Aggravate DPS",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "enerRech_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Shenhe": {
+    "sets": [
+      "Noblesse Oblige",
+      "Gladiator's Finale"
+    ],
+    "weapons": [
+      "Calamity Queller",
+      "Engulfing Lightning",
+      "Favonius Lance",
+      "Gladiator's Finale",
+      "Shimenawa's Reminiscence",
+      "The Catch"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Two charges of her Elemental Skill reduces her Energy Recharge requirements.\n    • Lower ER requirements gives you the benefit of using ATK based weapons."
+      },
+      {
+        "name": "C2",
+        "effect": "• Increases Elemental Burst duration by 6 seconds.\n    • Increases the Cryo CRIT DMG of allies within its field by 15%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Pure ATK Support",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Cryo Burst Support",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_",
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Shikanoin Heizou": {
+    "sets": [
+      "Viridescent Venerer",
+      "Gladiator's Finale",
+      "Noblesse Oblige",
+      "Instructor"
+    ],
+    "weapons": [
+      "Tulaytullah's Remembrance",
+      "Kagura's Verity",
+      "Lost Prayer to the Sacred Winds",
+      "The Widsith",
+      "Viridescent Venerer",
+      "A Thousand Floating Dreams"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "Named Juvenile Casebook  For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 10s."
+      },
+      {
+        "name": "C2",
+        "effect": "Investigative Collection  The pull effect of the Arresting Windtunnel created by Windmuster Kick is enhanced and its duration is increased to 1s."
+      },
+      {
+        "name": "C3",
+        "effect": "Esoteric Puzzle Book  Increases the Level of Heartstopper Strike by 3.  Maximum upgrade level is 15."
+      },
+      {
+        "name": "C4",
+        "effect": "Tome of Lies  The first Windmuster Iris explosion in each Windmuster Kick will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou. One Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this manner."
+      },
+      {
+        "name": "C5",
+        "effect": "Secret Archive  Increases the Level of Windmuster Kick by 3.  Maximum upgrade level is 15."
+      },
+      {
+        "name": "C6",
+        "effect": "Curious Casefiles  Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Anemo CRIT DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Swirl DPS",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Sigewinne": {
+    "sets": [
+      "Song of Days Past",
+      "Ocean-Hued Clam",
+      "Tenacity of the Millelith",
+      "Vourukasha's Glow",
+      "Emblem of Severed Fate"
+    ],
+    "weapons": [
+      "Silvershower Heartstrings",
+      "Recurve Bow",
+      "Aqua Simulacra",
+      "Sacrificial Bow",
+      "Favonius Warbow",
+      "Elegy for the End"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases uptime for her heals, trapping utility, and allows her to add more Convalescence procs for every bounce."
+      },
+      {
+        "name": "C2",
+        "effect": "• Provides shield to herself to prevent interruptions while casting. Additionally decreases opponents' Hydro RES with her abilities, which is good for Furina teams."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Full Healer Support",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Emblem of Severed Fate Burst Hybrid",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_",
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_",
+          "hp_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Skirk": {
+    "sets": [
+      "Blizzard Strayer",
+      "Marechaussee Hunter"
+    ],
+    "weapons": [
+      "Azurelight",
+      "Haran Geppaku Futsu",
+      "Mistsplitter Reforged",
+      "Primordial Jade Cutter",
+      "Finale of the Deep",
+      "Calamity of Eshu"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Summons a Crystal Blade that deals 500% of Skirk's ATK DMG when absorbing a Void Rift."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gain 10 more Serpent's Subtlety points when using Elemental Skill. These 10 points carry over to more DMG when using Elemental Burst.\n    • Using Special Elemental Burst increases ATK by 70% if Skirk is in Seven-Phase Flash mode."
+      },
+      {
+        "name": "C4",
+        "effect": "• Each Death's Crossing stack increases Skirk's ATK by 10%/20%/40%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Cryo Freeze DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Sucrose": {
+    "sets": [
+      "Viridescent Venerer",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "Sacrificial Fragments",
+      "Sunny Morning Sleep-In",
+      "Wandering Evenstar",
+      "Magic Guide",
+      "Artifact",
+      "Viridescent Venerer"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Astable Anemohypostasis Creation - 6308 gains 1 additional charge."
+      },
+      {
+        "name": "C6",
+        "effect": "• If Forbidden Creation - Isomer 75 / Type II triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hexerei Elemental Mastery Buffer",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Tartaglia (Childe)": {
+    "sets": [
+      "Heart of Depth",
+      "Nymph's Dream"
+    ],
+    "weapons": [
+      "Polar Star",
+      "The First Great Magic",
+      "Thundering Pulse",
+      "Jade Vista",
+      "Chain Breaker",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Decreases the cooldown of Tartaglia's Elemental Skill.\n    • Allows you to use Melee Stance in longer periods of time."
+      },
+      {
+        "name": "C6",
+        "effect": "• Resets the cooldown of Tartaglia's Elemental Skill via Elemental Burst.\n    • Lets Tartaglia use Melee Stance without ever needing to wait."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Main DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "enerRech_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Thoma": {
+    "sets": [
+      "Flower of Paradise Lost",
+      "Gilded Dreams",
+      "Wanderer's Troupe",
+      "Emblem of Severed Fate",
+      "Tenacity of the Millelith"
+    ],
+    "weapons": [
+      "Favonius Lance",
+      "Rightful Reward",
+      "Black Tassel",
+      "Engulfing Lightning",
+      "Emblem of Severed Fate",
+      "Tenacity of the Millelith"
+    ],
+    "constellations": [
+      {
+        "name": "C4",
+        "effect": "• 15 Energy will be restored to Thoma after using his Elemental Burst, making him more viable as a Sub-DPS."
+      },
+      {
+        "name": "C6",
+        "effect": "• Thoma can increase the party's Normal, Charged, and Plunge Attacks, resulting in stronger overall DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Shielder Support",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_"
+        ]
+      },
+      {
+        "name": "Burgeon Sub-DPS",
+        "sands": [
+          "eleMas",
+          "enerRech_"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Tighnari": {
+    "sets": [
+      "Deepwood Memories",
+      "Wanderer's Troupe",
+      "Gilded Dreams",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Hunter's Path",
+      "Aqua Simulacra",
+      "Skyward Harp",
+      "Scion of the Blazing Sun",
+      "Gilded Dreams",
+      "The First Great Magic"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Provides a big damage boost for Tighnari, on top of the increased CRIT Rate for C1."
+      },
+      {
+        "name": "C4",
+        "effect": "• Lets Tighnari become a viable Sub-DPS and Support."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Dendro Main DPS",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Charged Attack Main DPS",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "dendro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Valeriy": {
+    "sets": [
+      "Golden Troupe",
+      "Viridescent Venerer"
+    ],
+    "weapons": [
+      "Summit Shaper",
+      "Aquila Favonia",
+      "Skyward Blade",
+      "Calamity of Eshu",
+      "Moonweaver's Dawn",
+      "Finale of the Deep"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Increases team's Elemental Mastery upon using Elemental Skill. \n    • Excess Impact Momentum turns into Shield Strength."
+      },
+      {
+        "name": "C4",
+        "effect": "• Valeriy's Impact Momentum charges faster. \n    • Allows Valeriy to better fill up the Impact Momentum gauge upon using his Elemental Burst."
+      },
+      {
+        "name": "C6",
+        "effect": "• Enemies hit by Valeriy's Charged Attack are easier to CRIT with Electro attacks, and Stellar-Conduct DMG against them is increased by 40%."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best Stellar Conduct Support Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_"
+        ],
+        "subs": [
+          "atk_",
+          "atk",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Varesa": {
+    "sets": [
+      "Obsidian Codex",
+      "Desert Pavilion Chronicle"
+    ],
+    "weapons": [
+      "Vivid Notions",
+      "Kagura's Verity",
+      "Lost Prayer to the Sacred Winds",
+      "Crane's Echoing Call",
+      "The Widsith",
+      "Flowing Purity"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• After using her Special Elemental Burst, increases the damage done by the succeeding Plunging Attack by 150%. \n    • Consumes 30% less Nightsoul Points or Phlogiston if being used as a traversal tool."
+      },
+      {
+        "name": "C2",
+        "effect": "• Allows Varesa to use her Special Elemental Burst with a 100% uptime on it. \n    • Restores energy upon striking an opponent with her Plunging Attacks, and can be spammed to regain energy quickly."
+      },
+      {
+        "name": "C4",
+        "effect": "• Gives Varesa a 500% ATK increase on her Plunge if her Elemental Burst is cast without Fiery Passion or Apex Drive, which is often when she is in Nightsoul's Blessing.\n    • Otherwise, gives her Elemental Burst a 100% DMG increase if she is in Fiery Passion or Apex Drive."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best Plunge DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "enerRech_",
+          "critRate_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Varka": {
+    "sets": [
+      "Gladiator's Finale",
+      "Pale Flame"
+    ],
+    "weapons": [
+      "Gest of the Mighty Wolf",
+      "A Thousand Blazing Suns",
+      "Redhorn Stonethresher",
+      "Wolf's Gravestone",
+      "Serpent Spine",
+      "Tidal Shadow"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Additional use of his Elemental Skill. \n    • Additional damage to his first Elemental Skill use."
+      },
+      {
+        "name": "C2",
+        "effect": "• Using his Elemental Skill or Special Charged Attack will perform an additional strike."
+      },
+      {
+        "name": "C6",
+        "effect": "• Further increases his Elemental Skill use from 3 to 6."
+      }
+    ],
+    "builds": [
+      {
+        "name": "DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "enerRech_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Venti": {
+    "sets": [
+      "A Day Carved from Rising Winds",
+      "Viridescent Venerer",
+      "Desert Pavilion Chronicle",
+      "Emblem of Severed Fate",
+      "Noblesse Oblige"
+    ],
+    "weapons": [
+      "The Daybreak Chronicles",
+      "Astral Vulture's Crimson Plumage",
+      "Aqua Simulacra",
+      "Compound Bow",
+      "A Day Carved from Rising Winds",
+      "Elegy for the End"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Additional arrows that tracks opponents, dealing a portion of the original DMG."
+      },
+      {
+        "name": "C2",
+        "effect": "• Enemies launched by Elemental Skill have reduced Anemo RES while floating.\n    • If Elemental Burst is used  before they touch the ground, the Anemo RES reduction will stay throughout the Burst duration."
+      },
+      {
+        "name": "C6",
+        "effect": "• Huge DMG increase for Venti and the Party when Elemental Absorption is triggered during Elemental Burst."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hexerei Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_",
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ]
+      },
+      {
+        "name": "Elemental Mastery Swirl",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "enerRech_",
+          "atk_",
+          "critRate_",
+          "critDMG_"
+        ]
+      },
+      {
+        "name": "Crit Burst DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "eleMas",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Vesna": {
+    "sets": [
+      "Viridescent Venerer",
+      "Golden Troupe"
+    ],
+    "weapons": [
+      "Beyond the Chrysalis",
+      "Whitelake Frostfeather",
+      "Azurelight",
+      "Emberwell",
+      "Heretic's Molten Blade",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases the highest level that the Windborne Sword can level up.\n    • First usage of the Windborne Sword will not consume Sword Essence. \n    • Damage increase when she is in her Elemental Skill state."
+      },
+      {
+        "name": "C2",
+        "effect": "• Immediately gains full stacks of Disciplinary Actions when she uses Elemental Skill.\n    • Gains 40% ATK when Disciplinary Actions are fully stacked."
+      },
+      {
+        "name": "C6",
+        "effect": "• Can now use a new and more powerful version of Windborne Sword when it is at its highest level.\n    • Vesna also have coordinated attack weave in her Elemental Skill."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Best Stellar-Swirl DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Vodyanitsa": {
+    "sets": [
+      "Tenacity of the Millelith",
+      "Ocean-Hued Clam"
+    ],
+    "weapons": [
+      "Hymn of the Maelstrom",
+      "Thrilling Tales of Dragon Slayers",
+      "Jadefall's Splendor",
+      "Everlasting Moonglow",
+      "Prototype Amber",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Vodyanitsa can give an ATK buff based on her Max HP whenever she heals."
+      },
+      {
+        "name": "C2",
+        "effect": "• Elemental Skill attacks will give CRIT DMG buff to Hydro and Cryo DMG.\n    • If a Wandering Vortex is present, buffs the CRIT DMG of Stellar-Swirl."
+      },
+      {
+        "name": "C6",
+        "effect": "• Further enhances C2 by applying it to all members.\n    • Elevates Stellar-Swirl or Hydro and Cryo DMG."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hydro Support Build",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_"
+        ],
+        "subs": [
+          "hp_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Wanderer (Scaramouche)": {
+    "sets": [
+      "Desert Pavilion Chronicle",
+      "Shimenawa's Reminiscence"
+    ],
+    "weapons": [
+      "Tulaytullah's Remembrance",
+      "Lost Prayer to the Sacred Winds",
+      "Cashflow Supervision",
+      "The Widsith",
+      "Ballad of the Boundless Blue",
+      "Mappa Mare"
+    ],
+    "constellations": [],
+    "builds": [
+      {
+        "name": "Standard Anemo DPS Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Wriothesley": {
+    "sets": [
+      "Marechaussee Hunter",
+      "Blizzard Strayer"
+    ],
+    "weapons": [
+      "Cashflow Supervision",
+      "Tulaytullah's Remembrance",
+      "Lost Prayer to the Sacred Winds",
+      "The Widsith",
+      "Ballad of the Boundless Blue",
+      "Flowing Purity"
+    ],
+    "constellations": [
+      {
+        "name": "C4",
+        "effect": "• Provides support to the entire party if he receives overflow healing off-field."
+      },
+      {
+        "name": "C1",
+        "effect": "• Last hit of his Normal Attack string enables his Rebuke Charged Attacks without the need for his health to drop down to 60%."
+      },
+      {
+        "name": "C6",
+        "effect": "• Optimized Charged ATK for more vesatility so as to not rely on Normal Attacks alone. Both damage from his dual Charged Attacks can also melt at the same time!"
+      }
+    ],
+    "builds": [
+      {
+        "name": "Stellar Conduct Build",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "atk_",
+          "cryo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_",
+          "atk",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Xiangling": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Crimson Witch of Flames"
+    ],
+    "weapons": [
+      "Engulfing Lightning",
+      "Staff of the Scarlet Sands",
+      "Staff of Homa",
+      "The Catch",
+      "Favonius Lance",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Pyro Resistance reduction on enemies substantially increases her DMG and any other Pyro character."
+      },
+      {
+        "name": "C4",
+        "effect": "• Pyronado lasting longer simply equals to more Pyro based reactions and more damage."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Pyro Sub-DPS Build",
+        "sands": [
+          "atk_",
+          "enerRech_",
+          "eleMas"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "enerRech_",
+          "eleMas",
+          "critDMG_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Xianyun (Cloud Retainer)": {
+    "sets": [
+      "Viridescent Venerer",
+      "Song of Days Past",
+      "Noblesse Oblige",
+      "Long Night's Oath",
+      "Marechaussee Hunter"
+    ],
+    "weapons": [
+      "Crane's Echoing Call",
+      "Skyward Atlas",
+      "Memory of Dust",
+      "Oathsworn Eye",
+      "Flowing Purity",
+      "Favonius Codex"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Doubles the Plunging Attack DMG buffs she gives during her Elemental Burst."
+      },
+      {
+        "name": "C6",
+        "effect": "• Xianyun becomes a Main DPS character at C6, letting her use her Elemental Skill in succession for a total of 8 times."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Plunging Attack Support",
+        "sands": [
+          "enerRech_",
+          "atk_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "atk_",
+          "healingBonus_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Burst Healer Support",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "healingBonus_"
+        ],
+        "subs": [
+          "enerRech_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Plunging Attack DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Xiao": {
+    "sets": [
+      "Long Night's Oath",
+      "Vermillion Hereafter",
+      "Marechaussee Hunter",
+      "Berserker"
+    ],
+    "weapons": [
+      "Primordial Jade Winged-Spear",
+      "Staff of Homa",
+      "Fractured Halo",
+      "Calamity Queller",
+      "Deathmatch",
+      "Lithic Spear"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases Elemental Skill's charges by 1.\n    • Lower ER requirement for Xiao to use his Elemental Burst."
+      },
+      {
+        "name": "C6",
+        "effect": "• Hitting at least 2 opponents with Xiao's Plunging Attack while under the effects of his Elemental Burst immediately grants him 1 charge of his Elemental Skill, and for the next 1s, he can spam his Elemental Skill."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Plunge DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      },
+      {
+        "name": "Marechaussee Hunter DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "anemo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Xilonen": {
+    "sets": [
+      "Scroll of the Hero of Cinder City",
+      "Husk of Opulent Dreams",
+      "Emblem of Severed Fate",
+      "Defender's Will"
+    ],
+    "weapons": [
+      "Peak Patrol Song",
+      "Freedom-Sworn",
+      "Favonius Sword",
+      "Flute of Ezpitzal",
+      "Scroll of the Hero of Cinder City",
+      "Uraku Misugiri"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Increases Nightsoul Point limit and decreases Nightsoul Point consumption, effectively increasing her Elemental Skill duration. \n    • Provides interruption resistance to her teammates."
+      },
+      {
+        "name": "C2",
+        "effect": "• Geo RES shred is always active. \n    • Provides significant buffs for characters based on their elements."
+      },
+      {
+        "name": "C4",
+        "effect": "• Buffs Normal, Charged, and Plunging Attack DMG based on Xilonen's DEF whenever she uses her Elemental Skill."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Geo Shredder Support",
+        "sands": [
+          "enerRech_"
+        ],
+        "goblet": [
+          "def_"
+        ],
+        "circlet": [
+          "healingBonus_",
+          "def_"
+        ],
+        "subs": [
+          "enerRech_",
+          "def_"
+        ]
+      },
+      {
+        "name": "Geo DPS",
+        "sands": [
+          "def_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "critDMG_",
+          "critRate_",
+          "def_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Xingqiu": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Heart of Depth",
+      "The Exile"
+    ],
+    "weapons": [
+      "Sacrificial Sword",
+      "Primordial Jade Cutter",
+      "Mistsplitter Reforged",
+      "Amenoma Kageuchi",
+      "Emblem of Severed Fate",
+      "Skyward Blade"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Reduces enemy Hydro Resistance during Xingqiu's Elemental Burst.\n    • Increases the duration oh his Elemental burst, which just means more damage."
+      },
+      {
+        "name": "C6",
+        "effect": "• Xingqiu regenerates 3 energy for every last hit of his Elemental Burst. \n    • Unlocking this can replace Sacrificial Sword with a more damaging weapon."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Hydro Sub-DPS",
+        "sands": [
+          "atk_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "eleMas"
+        ]
+      }
+    ]
+  },
+  "Xinyan": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Bloodstained Chivalry",
+      "Pale Flame",
+      "Tenacity of the Millelith",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Redhorn Stonethresher",
+      "Skyward Pride",
+      "Snow-Tombed Starsilver",
+      "Prototype Archaic",
+      "Pale Flame",
+      "Bloodstained Chivalry"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Riff Revolution's Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast."
+      },
+      {
+        "name": "C4",
+        "effect": "• Sweeping Fervor's swing DMG decreases opponent's Physical RES by 15% for 12s"
+      }
+    ],
+    "builds": [
+      {
+        "name": "Physical Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "physical_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Marechaussee Hunter DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "physical_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critRate_",
+          "critDMG_",
+          "atk_",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Shield Support",
+        "sands": [
+          "def_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "def_"
+        ],
+        "circlet": [
+          "def_"
+        ],
+        "subs": [
+          "def_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Yae Miko": {
+    "sets": [
+      "Golden Troupe",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "Kagura's Verity",
+      "A Thousand Floating Dreams",
+      "Skyward Atlas",
+      "The Widsith",
+      "Etherlight Spindlelute",
+      "Flowing Purity"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Massively reduces her Energy Recharge requirements. • Massively increases Stellar-Conduct DMG."
+      },
+      {
+        "name": "C2",
+        "effect": "• Significantly increases the range and damage of her Elemental Skill. • Increases the Elemental Mastery of Yae Miko and the active character."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Stellar-Conduct Sub-DPS",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critDMG_",
+          "critRate_"
+        ],
+        "subs": [
+          "atk_",
+          "critRate_",
+          "critDMG_",
+          "enerRech_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Electro Sub-DPS",
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "electro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "eleMas",
+          "critDMG_",
+          "critRate_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Yanfei": {
+    "sets": [
+      "Crimson Witch of Flames",
+      "Shimenawa's Reminiscence",
+      "Wanderer's Troupe",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Lost Prayer to the Sacred Winds",
+      "Skyward Atlas",
+      "Flowing Purity",
+      "Ballad of the Boundless Blue",
+      "Crimson Witch of Flames",
+      "Shimenawa's Reminiscence"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Yanfei's Scarlet Seals can each reduce the Charged Attack stamina cost and increases RES against interruption."
+      },
+      {
+        "name": "C4",
+        "effect": "• Yanfei can generate a shield after using her Elemental Burst, which enables her to be a support character."
+      },
+      {
+        "name": "C6",
+        "effect": "• Increases the maximum number of Scarlet Seals by 1, increasing overall DPS."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Pyro Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Charged Attack DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "atk_",
+          "critDMG_",
+          "critRate_"
+        ]
+      },
+      {
+        "name": "Shield Support (C4)",
+        "sands": [
+          "enerRech_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_",
+          "hp"
+        ]
+      }
+    ]
+  },
+  "Yaoyao": {
+    "sets": [
+      "Deepwood Memories",
+      "Tenacity of the Millelith"
+    ],
+    "weapons": [
+      "Favonius Lance",
+      "Dialogues of the Desert Sages",
+      "Rightful Reward",
+      "Black Tassel",
+      "Kitain Cross Spear",
+      "Deepwood Memories"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "Adeptus' Tutelage  When White Jade Radishes explode, active characters within their AoE will gain 15% Dendro DMG Bonus for 8s and have 15 Stamina restored to them. This form of Stamina Restoration can only be triggered every 5s."
+      },
+      {
+        "name": "C2",
+        "effect": "Innocent  While affected by the Adeptal Legacy state caused by Moonjade Descent, if White Jade Radish explosions damage opponents, 3 Energy will be restored to Yaoyao. This form of Energy regeneration can occur once every 0.8s."
+      },
+      {
+        "name": "C3",
+        "effect": "Loyal and Kind  Increases the Level of Raphanus Sky Cluster by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "C4",
+        "effect": "Winsome  After using Raphanus Sky Cluster or Moonjade Descent, Yaoyao's Elemental Mastery will be increased based on 0.3% of her Max HP for 8s. The maximum Elemental Mastery she can gain this way is 120."
+      },
+      {
+        "name": "C5",
+        "effect": "Compassionate  Increases the Level of Moonjade Descent by 3.\n\nMaximum upgrade level is 15"
+      },
+      {
+        "name": "C6",
+        "effect": "Beneficent   For every 2 White Jade Radishes Yuegui: Throwing Mode throws out, the next throw will also release a Mega Radish that will have a larger AoE than the standard White Jade Radish and have the following effects upon exploding:\n· Deals AoE Dendro DMG based on 75% of Yaoyao's ATK.\n· Restores HP for the active character based on 7.5% of Yaoyao's Max HP."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Dendro Healer",
+        "sands": [
+          "enerRech_",
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "critRate_",
+          "healingBonus_"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Tenacity Healer",
+        "sands": [
+          "enerRech_",
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "critRate_",
+          "healingBonus_"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Bloom Support",
+        "sands": [
+          "enerRech_",
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Yelan": {
+    "sets": [
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Tenacity of the Millelith",
+      "The Exile"
+    ],
+    "weapons": [
+      "Aqua Simulacra",
+      "Elegy for the End",
+      "Favonius Warbow",
+      "Slingshot",
+      "Emblem of Severed Fate",
+      "Jade Vista"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Two charges of her Elemental Skill reduces her Energy Recharge requirements.\n    • Lower ER requirements makes her more flexible in different teams."
+      },
+      {
+        "name": "C2",
+        "effect": "• Creates a total of 4 water arrows during Yelan's Elemental Burst.\n    • Makes applying Hydro on enemies more consistent.\n    • Straight DMG increase."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Sub-DPS Build",
+        "sands": [
+          "hp_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "hydro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "hp_",
+          "critRate_",
+          "critDMG_"
+        ]
+      }
+    ]
+  },
+  "Yoimiya": {
+    "sets": [
+      "Shimenawa's Reminiscence",
+      "Crimson Witch of Flames",
+      "Martial Artist"
+    ],
+    "weapons": [
+      "Thundering Pulse",
+      "Polar Star",
+      "Aqua Simulacra",
+      "Rust",
+      "Shimenawa's Reminiscence",
+      "Crimson Witch of Flames"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Elemental Burst can now directly benefit Yoimiya.\n    • Not as useful against Boss type enemies."
+      },
+      {
+        "name": "C2",
+        "effect": "• Amazing Constellation thanks to her high Pyro application.\n    • Her Elemental Burst reaction counts towards her own damage, which will buff its damage."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Normal Attack Main DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "critDMG_",
+          "atk_",
+          "eleMas",
+          "enerRech_"
+        ]
+      },
+      {
+        "name": "Pyro Reactions DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critDMG_",
+          "critRate_",
+          "atk_",
+          "eleMas"
+        ]
+      },
+      {
+        "name": "Mix and Match Set",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "pyro_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "enerRech_",
+          "critDMG_",
+          "critRate_",
+          "atk_"
+        ]
+      }
+    ]
+  },
+  "Yumemizuki Mizuki": {
+    "sets": [
+      "Viridescent Venerer",
+      "Gilded Dreams"
+    ],
+    "weapons": [
+      "Sunny Morning Sleep-In",
+      "Reliquary of Truth",
+      "A Thousand Floating Dreams",
+      "The Widsith",
+      "Etherlight Spindlelute",
+      "Artifact"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Gives more personal damage to her Swirls, but only after every 3.5 seconds."
+      },
+      {
+        "name": "C2",
+        "effect": "• Gives Elemental DMG Bonus for Pyro, Hydro, Electro, or Cryo based on Mizuki's Elemental Mastery while on her Elemental Skill.\n    • Becomes a great all-rounder buffer for Swirl teams."
+      },
+      {
+        "name": "C4",
+        "effect": "• Removes the restriction of her Elemental Burst, which can now damage and heal an ally when they pick up her Special Snack.\n    • Also gives Energy back to her."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Stellar-Swirl DPS Build",
+        "sands": [
+          "eleMas"
+        ],
+        "goblet": [
+          "eleMas"
+        ],
+        "circlet": [
+          "eleMas"
+        ],
+        "subs": [
+          "eleMas",
+          "critRate_",
+          "critDMG_",
+          "enerRech_"
+        ]
+      }
+    ]
+  },
+  "Yun Jin": {
+    "sets": [],
+    "weapons": [
+      "Engulfing Lightning",
+      "Favonius Lance",
+      "Footprint of the Rainbow",
+      "The Catch",
+      "Prototype Starglitter",
+      "Husk of Opulent Dreams"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Provides additional Normal Attack DMG increase."
+      },
+      {
+        "name": "C6",
+        "effect": "• An attack speed buff is very rare in the game, especially if its the type that applies to all party members."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Support Builds for",
+        "sands": [
+          "def_",
+          "enerRech_"
+        ],
+        "goblet": [
+          "def_"
+        ],
+        "circlet": [
+          "def_",
+          "critRate_"
+        ],
+        "subs": [
+          "def_",
+          "enerRech_",
+          "critRate_"
+        ]
+      }
+    ]
+  },
+  "Zhongli": {
+    "sets": [
+      "Tenacity of the Millelith",
+      "Emblem of Severed Fate"
+    ],
+    "weapons": [
+      "Black Tassel",
+      "Dialogues of the Desert Sages",
+      "Favonius Lance",
+      "Staff of Homa",
+      "Tenacity of the Millelith",
+      "Engulfing Lightning"
+    ],
+    "constellations": [
+      {
+        "name": "C2",
+        "effect": "• Quick-swapping to Burst automatically sets your shield up."
+      },
+      {
+        "name": "C4",
+        "effect": "• Increases Planet Befall's AoE by 20%and increases the duration of Planet Befall's Petrification effect by 2s.\n    • Fixes the Issue with his Elemental Burst having a small AoE.\n    • Longer Petrification effect increases his crowd control capability."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Shield Support",
+        "sands": [
+          "hp_"
+        ],
+        "goblet": [
+          "hp_"
+        ],
+        "circlet": [
+          "hp_"
+        ],
+        "subs": []
+      },
+      {
+        "name": "Geo Sub-DPS",
+        "sands": [
+          "atk_"
+        ],
+        "goblet": [
+          "geo_dmg_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": []
+      }
+    ]
+  },
+  "Zibai": {
+    "sets": [
+      "Golden Troupe",
+      "Husk of Opulent Dreams"
+    ],
+    "weapons": [
+      "Lightbearing Moonshard",
+      "Uraku Misugiri",
+      "Light of Foliar Incision",
+      "Peak Patrol Song",
+      "Harbinger of Dawn",
+      "Flute of Ezpitzal"
+    ],
+    "constellations": [
+      {
+        "name": "C1",
+        "effect": "• Allows Zibai to immediately unleash Special Elemental Skill upon first casting her Elemental Skill. \n    • Special Elemental Skill can be casted 5 times in one rotation instead of 4. \n    • The first Special Elemental Skill used does 220% more DMG on its second hit."
+      },
+      {
+        "name": "C2",
+        "effect": "• Lunar-Crystallize DMG increased by 30%. \n    • 2nd hit of Special Elemental Skill DMG is increased by 550% of Zibai's DEF."
+      },
+      {
+        "name": "C4",
+        "effect": "• Normal Attack animations do not reset while in Elemental Skill state. \n    • Special Elemental Skill hits will cause the 4th Empowered Normal Attack to deal 250% of its original DMG as Lunar-Crystallize DMG."
+      }
+    ],
+    "builds": [
+      {
+        "name": "Lunar-Crystallize DPS Build",
+        "sands": [
+          "def_"
+        ],
+        "goblet": [
+          "def_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_"
+        ],
+        "subs": [
+          "def_",
+          "critDMG_",
+          "critRate_",
+          "eleMas",
+          "enerRech_"
+        ]
+      }
+    ]
+  }
+}
