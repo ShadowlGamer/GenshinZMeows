@@ -38,6 +38,11 @@ You do not need to build this app from source. You can download the latest ready
 3. **Upload:** Click the large upload box and select your `.GOOD` file.
 4. **Explore:** Use the sidebar to navigate between the Dashboard, Artifact Planner, and Character Builds.
 
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/ab57254a-ae97-40dd-bc66-33e8e3412658" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/cab1cef1-e539-48a6-aefa-0b46cce9a13a" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/6da8c7f7-8dd1-4303-b642-22b8a8bae479" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/6183008f-d481-4053-9e0e-6c683d044c16" />
+
 ---
 
 
